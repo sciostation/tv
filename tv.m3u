@@ -1,7 +1,11 @@
 #EXTM3U mi tv
 #EXTINF:-1 tvg-logo="img/logos.png" group-title="colombia" audio-track="col",pelicula el arracadas
 https://ia804603.us.archive.org/19/items/el-arracadas/el%20arracadas.mp4
+#EXTINF:-1 tvg-logo="img/logos.png" group-title="colombia" audio-track="col",pelicula TheGoodforNothing
+https://ia902702.us.archive.org/14/items/CC_1914_08_31_TheGoodforNothing/CC_1914_08_31_TheGoodforNothing.ogv
 #EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="jesus Taylor" tvg-name="Cadena SER",Cadena SER
 https://ia801300.us.archive.org/6/items/LQRVSLL_-_15_de_octubre_2015/LQRVSLL_-_15_de_octubre_2015.ogv
 #EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title=" Jesús Taylor comenta Hombres al Agua" tvg-name="COPE",COPE
 https://ia803003.us.archive.org/28/items/rvtv-Hombres_al_Agua_-_Lo_que_Rompeviento_se_llevo/Hombres_al_Agua_-_Lo_que_Rompeviento_se_llevo.ogv
+#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="pelicula La Tentation de Saint Antoine" tvg-name="COPE",COPE
+https://ia800902.us.archive.org/5/items/LaTentationDeSaintAntoine/1898GeorgesMlisTentationDeSaint-antoine.ogv
