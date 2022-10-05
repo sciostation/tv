@@ -1,0 +1,7 @@
+#EXTM3U mi tv
+#EXTINF:-1 tvg-logo="img/logos.png" group-title="colombia" audio-track="col",Science and Technology
+http://stream.zeno.fm/gjgmji2u0gauv.m3u
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="COPE",COPE
+https://flucast-m04-06.flumotion.com/cope/net1.mp3
