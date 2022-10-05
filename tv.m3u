@@ -1,7 +1,7 @@
 #EXTM3U mi tv
-#EXTINF:-1 tvg-logo="img/logos.png" group-title="colombia" audio-track="col",Science and Technology
-http://stream.zeno.fm/gjgmji2u0gauv.m3u
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
-#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="COPE",COPE
-https://flucast-m04-06.flumotion.com/cope/net1.mp3
+#EXTINF:-1 tvg-logo="img/logos.png" group-title="colombia" audio-track="col",pelicula el arracadas
+https://ia804603.us.archive.org/19/items/el-arracadas/el%20arracadas.mp4
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="jesus Taylor" tvg-name="Cadena SER",Cadena SER
+https://ia801300.us.archive.org/6/items/LQRVSLL_-_15_de_octubre_2015/LQRVSLL_-_15_de_octubre_2015.ogv
+#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title=" Jesús Taylor comenta Hombres al Agua" tvg-name="COPE",COPE
+https://ia803003.us.archive.org/28/items/rvtv-Hombres_al_Agua_-_Lo_que_Rompeviento_se_llevo/Hombres_al_Agua_-_Lo_que_Rompeviento_se_llevo.ogv
