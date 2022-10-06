@@ -1,20 +1,14 @@
-#EXTM3U mi tv
-#EXTINF:-1 tvg-logo="img/logos.png" group-title="colombia" audio-track="col",pelicula el arracadas
-https://ia804603.us.archive.org/19/items/el-arracadas/el%20arracadas.mp4
-#EXTINF:-1 tvg-logo="img/logos.png" group-title="colombia" audio-track="col",pelicula TheGoodforNothing
-https://ia902702.us.archive.org/14/items/CC_1914_08_31_TheGoodforNothing/CC_1914_08_31_TheGoodforNothing.ogv
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="jesus Taylor" tvg-name="Cadena SER",Cadena SER
-https://ia801300.us.archive.org/6/items/LQRVSLL_-_15_de_octubre_2015/LQRVSLL_-_15_de_octubre_2015.ogv
-#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title=" Jesús Taylor comenta Hombres al Agua" tvg-name="COPE",COPE
-https://ia803003.us.archive.org/28/items/rvtv-Hombres_al_Agua_-_Lo_que_Rompeviento_se_llevo/Hombres_al_Agua_-_Lo_que_Rompeviento_se_llevo.ogv
-#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="pelicula La Tentation de Saint Antoine" tvg-name="COPE",COPE
-https://ia800902.us.archive.org/5/items/LaTentationDeSaintAntoine/1898GeorgesMlisTentationDeSaint-antoine.ogv
-#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Open_Stag" tvg-name="COPE",COPE
-https://ia802800.us.archive.org/24/items/OpenStageProject-CircusFreaks-001-2013-07-01_Open_Stage/2013-07-01/1%20-%20Open%20Stage%207_1_13%20-%20Russ%20Sharek.ogv
-#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Open_Stag" tvg-name="COPE",COPE
-#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="pelicula la banda del carro rojo" tvg-name="COPE",COPE
-https://ia804605.us.archive.org/7/items/la-banda-del-carro-rojo-1978-fullscreen/la%20banda%20del%20carro%20rojo%201978%20fullscreen.mp4
-#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Lo que Rompeviento " tvg-name="COPE",COPE
-https://ia601302.us.archive.org/4/items/LQRVSLL_10_diciembre_2015/LQRVSLL_10_diciembre_2015.ogv
-#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="socrates " tvg-name="COPE",COPE
-https://ia600202.us.archive.org/27/items/Socrates/Socratesr.Rossellini.1970_subtSpanish.ogv
+#EXTM3U rock music  saxum station  tv
+#EXTM3U
+#EXTINF: -1, video musical kerosene Miranda Lambert
+https://ia801208.us.archive.org/0/items/Miranda_Lambert_Kerosene/Miranda%20Lambert_Kerosene.mp4
+#EXTINF: -1, video musical Red_Hot_Chili_Peppers_Otherside
+https://ia801200.us.archive.org/18/items/Red_Hot_Chili_Peppers_Otherside__/Red%20Hot%20Chili%20Peppers_Otherside%20%20.mp4
+#EXTINF: -1, video musical Paramore_Decode
+https://ia801207.us.archive.org/32/items/Paramore_Decode/Paramore_Decode.mp4
+#EXTINF: -1, video musical System_Of_A_Down_Toxicity
+https://ia801204.us.archive.org/19/items/System_Of_A_Down_Toxicity/System%20Of%20A%20Down_Toxicity.mp4
+#EXTINF: -1, video musical Guns_N_Roses_Welcome_To_The_Jungle
+https://ia601201.us.archive.org/30/items/Guns_N_Roses_Welcome_To_The_Jungle/Guns%20N%20Roses_Welcome%20To%20The%20Jungle.mp4
+#EXTINF: -1, video musical Incubus_Pardon_Me
+https://ia801207.us.archive.org/8/items/Incubus_Pardon_Me_/Incubus_Pardon%20Me%20.mp4
