@@ -1,9 +1,15 @@
 #EXTM3U rock music  saxum station  tv
 #EXTM3U
+#EXTINF: -1, video musical Michael_Jackson_Thriller
+https://ia601206.us.archive.org/21/items/Michael_Jackson_Thriller/Michael_Jackson_Thriller.ogv
+#EXTINF: -1, video musical Michael_Jackson_Beat_It
+https://ia801208.us.archive.org/20/items/Michael_Jackson_Beat_It/Michael%20Jackson_Beat%20It.ogv
 #EXTINF: -1, video musical kerosene Miranda Lambert
+https://ia801208.us.archive.org/0/items/Miranda_Lambert_Kerosene/Miranda%20Lambert_Kerosene.mp4
 #EXTINF: -1, video musical Gotye_Somebody_That_I_Used_To_Know
 https://ia801205.us.archive.org/4/items/Gotye_Somebody_That_I_Used_To_Know_/Gotye_Somebody%20That%20I%20Used%20To%20Know%20.mp4
-https://ia801208.us.archive.org/0/items/Miranda_Lambert_Kerosene/Miranda%20Lambert_Kerosene.mp4
+#EXTINF: -1, video musical Jimi_Hendrix_Hey_Joe_
+https://ia801209.us.archive.org/17/items/Jimi_Hendrix_Hey_Joe_/Jimi%20Hendrix_Hey%20Joe%20.ogv
 #EXTINF: -1, video musical Red_Hot_Chili_Peppers_Otherside
 https://ia801200.us.archive.org/18/items/Red_Hot_Chili_Peppers_Otherside__/Red%20Hot%20Chili%20Peppers_Otherside%20%20.mp4
 #EXTINF: -1, video musical Paramore_Decode
@@ -68,3 +74,7 @@ https://ia601208.us.archive.org/30/items/Greg_Laswell_Sing__Theresa_Says_/Greg%2
 https://ia803209.us.archive.org/31/items/Theresa_Andersson_Birds_Fly_Away/Theresa%20Andersson_Birds%20Fly%20Away.ogv
 #EXTINF: -1, video musical Laura_Trent_Birds_Fly/
 https://ia601201.us.archive.org/32/items/Laura_Trent_Birds_Fly/Laura%20Trent_Birds%20Fly.ogv
+#EXTINF: -1, video musical JIMI_HENDRIX_HEY_JOE_1967_Monterey
+https://ia801607.us.archive.org/23/items/JIMI_HENDRIX_HEY_JOE_1967_Monterey/JIMI_HENDRIX_HEY_JOE_1967_Monterey.ogv
+#EXTINF: -1, video musical Jefferson_Airplane_White_Rabbit
+https://ia601204.us.archive.org/27/items/Jefferson_Airplane_White_Rabbit_/Jefferson%20Airplane_White%20Rabbit%20.ogv
