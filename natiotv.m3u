@@ -1,4 +1,6 @@
 #EXTM3U natio station  tv
+#EXTINF: -1, Colombia-National
+https://ia800302.us.archive.org/4/items/Colombia-NationalStrikeOct23th/ParoDel23.ogv
 #EXTINF: -1, La_violencia_politica_contra_el_activismo_social
 https://ia803108.us.archive.org/13/items/Video_Opinion_Pietro_Ameglio_La_violencia_politica_contra_el_activismo_social_28_05_2018/Video_Opinion_Pietro_Ameglio_La_violencia_politica_contra_el_activismo_social_28_05_2018.HD.ogv
 #EXTINF: -1, el Manifiesto Feminista
@@ -13,3 +15,5 @@ https://ia800309.us.archive.org/17/items/spanishrevolution-Paseo_por_AcampadaSol
 https://ia600307.us.archive.org/2/items/spanishrevolution-INDIGNADOS-Bogota12_10_12--0cn1fyKntf0/INDIGNADOS%20%20-Bogot%C3%A1%2C%2012_10_12--0cn1fyKntf0.ogv
 #EXTINF: -1, spanishrevolution
 https://ia800304.us.archive.org/26/items/spanishrevolution-Desinfeccion_bancaria_3_AVI-dqFGEv8euts.mp4/Desinfeccion_bancaria_3_AVI-dqFGEv8euts.ogv
+#EXTINF: -1, spanishrevolution
+https://ia600304.us.archive.org/3/items/spanishrevolution-acampadasol_Brutalidad_Policial_Acampada_Sol_2_mp4-3x99osuzRak.mp4/acampadasol_Brutalidad_Policial_Acampada_Sol_2_mp4-3x99osuzRak.ogv
