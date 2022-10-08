@@ -1,6 +1,6 @@
 #EXTM3U canales arternativos de Tv
 #EXTINF: -1,  Nation Station Tv
-
+https://raw.githubusercontent.com/sciostation/tv/main/natiotv.m3u
 #EXTINF: -1, Scio Station Tv
 
 #EXTINF: -1, Saxum Station Tv
