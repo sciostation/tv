@@ -1,10 +1,22 @@
 #EXTM3U natio station  tv
 #EXTINF: -1, propaganda natio tv
 https://ia801505.us.archive.org/9/items/natio-station-tv/natio%20%20station%20tv.mp4
+#EXTINF: -1, arboles y flores
+https://ia800500.us.archive.org/32/items/FloresYArbolesPorSiempre/floresyarbolesporsiempre1.ogv
 #EXTINF: -1, presentacion radio
 https://ia801407.us.archive.org/9/items/stationnatio/stationnatio.mp4
-#EXTINF: -1, tierra de gigantes
-https://ia902306.us.archive.org/33/items/land-of-the-giants/Land%20Of%20The%20Giants.mp4
+#EXTINF: -1, la abeja maya el nacimiento
+https://ia802500.us.archive.org/31/items/abeja-maya/01%20Nacimiento%20de%20Maya.mp4
+#EXTINF: -1, pantera rosa
+https://ia902605.us.archive.org/13/items/LaPanteraRosaElProyectoRosa.3gp/La_Pantera_Rosa_-_El_Proyecto_Rosa.mp4
+#EXTINF: -1, el show de tom y yerry
+https://ia801505.us.archive.org/9/items/293780192-364349825664645-4425757394537175136-n/293617188_5245134475540271_8145643244034355891_n%20%281%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://ia600200.us.archive.org/34/items/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--01-PilotoEspacial3000.gif"group-title="futurama",Piloto espacial
+https://ia600200.us.archive.org/34/items/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--01-PilotoEspacial3000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo=""group-title="",ryck y mock
+https://archive.org/download/rymt02xe01/RyM_T01xE01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://commons.wikimedia.org/wiki/File:Cobra_1991-3.jpg"group-title="cobra",super agente cobra capitulo 8 mandra
+https://ia802801.us.archive.org/19/items/super-agente-cobra-capitulo-9-parte-1-720p/super-agente-cobra-capitulo-8-parte-1-360p.mp4
 #EXTINF: -1, propaganda natio tv
 https://ia801505.us.archive.org/9/items/natio-station-tv/natio%20%20station%20tv.mp4
 #EXTINF: -1, rama capitulos 1 2 
@@ -19,16 +31,28 @@ https://ia804605.us.archive.org/18/items/koni-espanol-latino-tv-rip/Koni-chan%20
 https://ia804605.us.archive.org/18/items/koni-espanol-latino-tv-rip/Koni-chan%20-%2001-3%20-%20El%20Castillo%20%28300p_25fps_H264-96kbit_AAC%29.mp4
 #EXTINF: -1, propaganda natio tv
 https://ia801505.us.archive.org/9/items/natio-station-tv/natio%20%20station%20tv.mp4
+#EXTINF: -1, lo mejor bugs bunny
+https://ia801002.us.archive.org/26/items/bugsbunnylomejorde/Bugs%20Bunny%28Lo%20Mejor%20de%29.mp4
+#EXTINF: -1, tierra de gigantes
+https://ia902306.us.archive.org/33/items/land-of-the-giants/Land%20Of%20The%20Giants.mp4
 #EXTINF: -1, llanero solitario
 https://ia902505.us.archive.org/33/items/llanero-solitario_202204/Llanero-hija-Juez.mp4
-#EXTINF: -1, trailer cobra
-https://ia802300.us.archive.org/32/items/cobra_20210910/Cobra.mp4
-#EXTINF: -1, the terminator
-https://ia601507.us.archive.org/16/items/TheTerminator-1984/The%20Terminator%20%281984%29.mp4
-#EXTINF: -1, propaganda natio tv
-https://ia801505.us.archive.org/9/items/natio-station-tv/natio%20%20station%20tv.mp4
 #EXTINF: -1, the-muppets-wizard
 https://ia802308.us.archive.org/25/items/the-muppets-wizard-of-oz_20211010_2055/TMWOOe.mp4
+#EXTINF: -1, volver al futuro II
+https://ia601506.us.archive.org/13/items/volver-al-futuro-ii-1989-latino/Volver%20al%20futuro%20II%20%281989%29%20Latino.mp4
+#EXTINF: -1, trailer cobra
+https://ia802300.us.archive.org/32/items/cobra_20210910/Cobra.mp4
+#EXTINF:-1 group-title="PELICULAS", Deadpool 
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF: -1, propaganda natio tv
+https://ia801505.us.archive.org/9/items/natio-station-tv/natio%20%20station%20tv.mp4
+#EXTINF: -1, the terminator
+https://ia601507.us.archive.org/16/items/TheTerminator-1984/The%20Terminator%20%281984%29.mp4
+#EXTINF: -1, la marca de la mariposa 
+https://ia801002.us.archive.org/8/items/lamarcadelamariposa1982/La%20marca%20de%20la%20mariposa%20Dual.mp4
+#EXTINF: -1, propaganda natio tv
+https://ia801505.us.archive.org/9/items/natio-station-tv/natio%20%20station%20tv.mp4
 #EXTINF: -1, trailer mad max two
 https://ia902302.us.archive.org/5/items/mad-max-2-1981_202107/Mad%20Max%202%201981.mp4
 #EXTINF: -1, the-muppets-wizard
@@ -73,8 +97,14 @@ https://ia803108.us.archive.org/13/items/Video_Opinion_Pietro_Ameglio_La_violenc
 https://ia801505.us.archive.org/9/items/natio-station-tv/natio%20%20station%20tv.mp4
 #EXTINF: -1,Terrorismo_xenofobia_y_violencia_estructural
 https://ia801001.us.archive.org/21/items/rvtv-Terrorismo_xenofobia_y_violencia_estructural/Terrorismo_xenofobia_y_violencia_estructural.mp4
+#EXTINF: -1, guerra civil española
+https://ia601001.us.archive.org/29/items/LaGuerraCivilEspaolaDVD012/La%20Guerra%20Civil%20Espa%C3%B1ola%20DVD%2001_2.mp4
 #EXTINF: -1, propaganda natio tv
 https://ia801505.us.archive.org/9/items/natio-station-tv/natio%20%20station%20tv.mp4
+#EXTINF: -1, raza superior 
+https://ia804509.us.archive.org/23/items/rom-spn-video-final-v-7/ROM%20SPN%20-%20Video%20Final%20-%20V7.mp4
+#EXTINF: -1, sobre la segunda guerra mundial
+https://ia802203.us.archive.org/5/items/hi_20220308/hi.mp4
 #EXTINF: -1, el Manifiesto Feminista
 https://ia800309.us.archive.org/18/items/spanishrevolution-LecturadelManifiestoFeminista-TfVuNKecm_w/Lectura%20del%20Manifiesto%20Feminista-TfVuNKecm_w.ogv
 #EXTINF: -1, spanishrevolution
@@ -85,6 +115,8 @@ https://ia801705.us.archive.org/0/items/coll-hp-0791-2001-xxxx-demo-la-cabina-vh
 https://ia801505.us.archive.org/9/items/natio-station-tv/natio%20%20station%20tv.mp4
 #EXTINF: -1, -Las_fichas_de_Coca_Cola._Tacticas_comerciales
 https://ia802508.us.archive.org/25/items/rvtv-Las_fichas_de_Coca_Cola._Tacticas_comerciales_para_incidir_en_politicas_de_salud_publica/Las_fichas_de_Coca_Cola._Tacticas_comerciales_para_incidir_en_politicas_de_salud_publica.mp4
+#EXTINF: -1 conferencia-del-profesor-noam-chomsky
+https://ia802502.us.archive.org/11/items/conferencia-del-profesor-noam-chomsky-1996/8-%20Noam%20Chomsky%20-%2011-11-1996.mp4
 #EXTINF: -1, PUBLICIDAD SELECCION
 https://ia803002.us.archive.org/6/items/COMERCIALESSELECCINCOLOMBIA201120142018/COMERCIALES%20SELECCI%C3%93N%20COLOMBIA%202011%202014%202018.ogv
 #EXTINF: -1, spanishrevolution
@@ -137,5 +169,12 @@ https://ia801806.us.archive.org/29/items/mad-max-1979_202103/Mad%20Max%20%281979
 https://ia802303.us.archive.org/34/items/naked-city-tv-1958-colorized-s-01e-01-meridian/Naked%20City%20TV%201958%20colorized%20s01e01%20%22Meridian%22.mp4
 #EXTINF: -1,evento-cinefilia
 https://ia903405.us.archive.org/6/items/evento-cinefilia_202104/Evento%20Cinefilia.mp4
+#EXTINF: -1,Fritz Christen ElRambo Alemn
+https://ia800805.us.archive.org/35/items/FritzChristenElRamboAlemn/Fritz%20Christen%20%28El%20Rambo%20Alem%C3%A1n%29.mp4
 #EXTINF: -1, fin emision
 https://ia801803.us.archive.org/22/items/barras-de-color-y-tono-de-smpte-tv-1000-hz-30-minutos/Barras%20de%20color%20y%20tono%20de%20SMPTE%20TV%20%20%281000%20Hz%29%20-%2030%20minutos.mp4
+#EXTINF: -1, el show de tom y jerry
+https://ia801503.us.archive.org/18/items/tom-y-jerry-filmation-pelicula-latino/Tom%20y%20Jerry%20Filmation%20Pelicula%20Latino.mp4
+
+#EXTINF: -1, lucas y bugs bunny
+https://ia801008.us.archive.org/23/items/bugsbunnyyelpatolucaslomejorde/Bugs%20Bunny%20y%20el%20Pato%20Lucas%28Lo%20mejor%20de%29.mp4
