@@ -2407,4 +2407,87 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
 #EXTINF:-1,TVG Musigal www.achoAPPS.com
 http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+#EXTM3U radios alternativas
+#EXTINF:-1,tvg-logo="http://image.noelshack.com/minis /2017/02/1484272726-somafm.png" group-title="radio" radio="true",Groove Salad
+http://ice1.somafm.com/groovesalad-128-mp3
+#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/logos.png" group-title="radio" radio="true",Science and Technology
+http://stream.zeno.fm/gjgmji2u0gauv.m3u
+#EXTINF:-1 radio="true" tvg-id="Radio" tvg-logo="https://github.com/sciostation/radios/blob/main/img/SaxumStation.png" group-title="radio" radio="true",Station Saxum
+http://stream.zeno.fm/x4cuyhegckyvv.m3u
+#EXTINF:-1 radio="true" tvg-id="Radio" tvg-logo="https://github.com/sciostation/radios/blob/main/img/station.png" group-title="radio" radio="true",Station Natio
+http://stream.zeno.fm/mfny1d4okmjuv.m3u
+#EXTINF:-1 radio="true" tvg-id="Radio" tvg-logo="https://github.com/sciostation/radios/blob/main/img/station.png" group-title="radio" radio="true",Station scio clasic
+http://stream.zeno.fm/gdxbkpcpjnrvv.m3u
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1550162501.jpg" group-title="radio" radio="true", REAL PUNK RADIO - 128 kbit/s
+http://149.56.155.73:8080/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1560873956.jpg" group-title="radio" radio="true", Guerrilla Radio - 128 kbit/s
+http://s2.stationplaylist.com:9460/guerrilla
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="radio" radio="true",Skaworld - 128 kbit/s
+http://stream.laut.fm/skaworld
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/26707.jpg" group-title="radio" radio="true",ANDYS 80S - The Rarest New Wave 80s Music - Make  REQUESTS at  ANDYS80S.com - Stream Live 24-7 - NewWaveZone.com - The 80s Channel - NO COMMERCIALS - NO TALK - Just Rare 80s Music! - 128 kbit/s
+http://209.9.238.4:9844
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1556637481.jpg" group-title="radio" radio="true",Punk4Punks - 96 kbit/s
+http://184.154.43.106:8072/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103925.jpg" group-title="radio" radio="true",Absolute Alternative @ Distortion Radio [www.distortionradio.com] - 64 kbit/s
+http://s1.distortionradio.com:80/absolute-alternative-64
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103925.jpg" group-title="radio" radio="true", Radio TranceDelica - 128 kbit/s
+http://radio-tochka.com:6440
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103925.jpg" group-title="radio" radio="true", IpoRadio.com Live - 128 kbit/s
+http://136.0.17.139:8000/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="radio" radio="true", Laut.fm argebrat - 128 kbit/s
+http://stream.laut.fm/argebrat
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1556547610.jpg" group-title="radio" radio="true", Punkrockers Radio - 192 kbit/s
+http://stream.punkrockers-radio.de:8000/mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="radio" radio="true", riotradio - 128 kbit/s
+http://stream.laut.fm/riotradio
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1556543441.jpg" group-title="radio" radio="true", Radio Nightingale Steampunk - 128 kbit/s
+http://streams.radioriel.org:8030/autodj
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="radio" radio="true", Punk 4 All - 128 kbit/s
+http://stream.laut.fm/punk4all
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1556543441.jpg" group-title="radio" radio="true", Radio Nightingale Dieselpunk - 128 kbit/s
+http://streams.radioriel.org:8040/autodj
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1556543441.jpg" group-title="radio" radio="true", Punk Rock Demonstration - 128 kbit/s
+http://199.87.239.197:8000/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1556541501.jpg" group-title="radio" radio="true", FreshRock Internet Radio Station - 320 kbit/s
+http://de.freshrock.net:8000/320.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1556541501.jpg" group-title="radio" radio="true", Boot Party Radio - 128 kbit/s
+http://176.31.244.83:45622/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true", Metal Detector: From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial. [SomaFM] - 128 kbit/s
+http://ice1.somafm.com/metal-128-mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="radio" radio="true", Radio Caprice Pop Punk - 128 kbit/s
+http://79.111.14.76:9035
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="radio" radio="true", Toksyna FM Post Punk - 128 kbit/s
+http://s01.toksyna.fm:8070/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="radio" radio="true", Mainstream Dominator - The Neurofunk Powerstation - 192 kbit/s
+http://media.brokenpla.net:8000/live
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="PUNK Radio - radio.pervii.com", Radio Caprice - Post-Punk - 192 kbit/s
+http://79.120.39.202:9071
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="radio" radio="true", Radio Caprice - Russian Punk - 192 kbit/s
+http://79.120.77.11:9045
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403833258.png" group-title="radio" radio="true", K-Rock Europe - 128 kbit/s
+http://37.59.37.6:7958/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1563238435.jpg" group-title="radio" radio="true", Dieselpunk Industries Radio - 32 kbit/s
+http://s7.voscast.com:7730/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="radio" radio="true", Radio Caprice Ska-Punk/Core - 32 kbit/s
+http://79.111.119.111:9039
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/29229.jpg" group-title="radio" radio="true", STENCH RADIO " The Only Station That Matters..." Est 2010. - 32 kbit/s
+http://184.154.145.114:8032
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/29229.jpg" group-title="radio" radio="true", Punkerwelle - 192 kbit/s
+http://87.98.217.63:23406
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="radio" radio="true", sauerlandradio - 128 kbit/s
+http://stream.laut.fm/sauerlandradio
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="radio" radio="true", Radio Caprice - Oi!/Street Punk - 128 kbit/s
+http://79.111.119.111:9125
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1550548861.jpg" group-title="radio" radio="true", Gabba-Gabba-Radio - 128 kbit/s
+http://ramones.rootoon.com:8666/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403813366.png" group-title="radio" radio="true", 12punks - 192 kbit/s
+http://88.99.44.17:80
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403813366.png" group-title="radio" radio="true", RUFFNECK-RADIO - 128 kbit/s
+http://149.255.59.162:8016
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403901619.png" group-title="radio" radio="true", BeGoodRadio - 80s Punk Rock - 128 kbit/s
+https://ors.cdnstream1.com/5218_128
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403901619.png" group-title="radio" radio="true", BOBs Punk - 128 kbit/s
+http://streams.radiobob.de/bob-punk/mp3-128
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1549467498.jpg" group-title="radio" radio="true"", ROCK ANTENNE Punkrock - 128 kbit/s
+https://mp3channels.webradio.antenne.de/punkrock
 
