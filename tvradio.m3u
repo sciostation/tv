@@ -2364,11 +2364,6 @@ https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="520" tvg-name="Venevision" tvg-logo="https://lh3.googleusercontent.com/-A5WgWXaqOSw/YEthPZBXIVI/AAAAAAABAkc/K4ZAK7c9hAoCN5MlTXctd8jG2gPMeABcACK8BGAsYHg/s512/2021-03-12.png", Venevision | VE
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
-
-
-
-
-
 #EXTINF:****canales de tv de musica***
 #EXTINF:-1 tvg-id="106791" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
@@ -2690,4 +2685,45 @@ http://ice1.somafm.com/indiepop-128-mp3
 http://stm1.emiteonline.com:8008/spektrafm
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true", Mortal FM house, dance, EDM y pop-dance y las mejores fiestas
 http://94.23.81.197:8044/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true",
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true",Ecos del Combeima
+http://s2.viastreaming.net:8030/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true",Radio Free American
+http://thassos.cdnstream.com:5479/live?
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true",PEPERADIO - La Popyrock 
+http://94.23.81.197:8000/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true",Jamendo Lounge Emisora Online de pop internacional y latino
+http://streamingp.shoutcast.com/JamendoLounge?lang=es-ES%2ces%3bq%3d0.9
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true",EfectoFM Tu emisora Dance 
+http://84.232.4.5:19000/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true",OnlineDJRadio is online radio, with fresh new dance hits and every weekend 
+http://79.98.108.181:8000/autodj
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true", Radio Schizoid is an internet radio station for Psychedelic
+http://94.130.113.214:8000/prog
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true",Hirschmilch Radio is a none commercial internet radio station.
+http://relay1.hirschmilch.de:7100/progressive.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true",DISHFM is a global internet radio 
+http://85.195.88.149:15118/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true",16Bit FM is an online radio station from Moscow 
+http://16bitfm.com:8000/main_mp3_192
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true",TranceBase.FM ist das auf den Trance-Sektor spezialisierte
+http://listener1.aach.tb-group.fm/trb-high.aac
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true",Radio Seagull plays the best Progressive Rock, the Coolest Album Tracks and the Finest Alternative Music 
+http://stream.radioseagull.net:8000/seagull
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true",Beatles Radio the Music of the Beatles, Solos, Covers
+http://64.40.99.76:8000/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true",Metal Express Radio – The Ultimate Metal
+http://5.135.154.69:11590/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true", Melodic Rock Hard Rock AOR Radio Station 80's 90's 00's Classics
+http://i4.streams.ovh:8124/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true", ROCK THE NET with the best 80s and early 90s Hard Rock, Hair Metal and Hair
+http://hydra.cdnstream.com/1521_128
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true", Tangra Mega Rock is the first ever rock station 
+http://stream-bg-01.radiotangra.com:8000/Tangra-high
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true", BurnFM ist Rock Radio, Metal Radio, Indie Radio, EBM Radio, Gothic
+http://1aradio.radionetz.de:8000/burn-fm.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true", La Grosse Radio. Bouquet de 3 radios Rock Metal et Reggae militantes à forte tendance alternative et indépendante. Artistes bienvenus. Militant Rock Station ! - 
+http://hd.lagrosseradio.info:8000/lagrosseradio-metal-192.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true", Radio Kołobrzeg 90.2 FM – Przez Cały
+http://graj.radiokolobrzeg.pl:8000/stream/1/
+
+
