@@ -1,6 +1,6 @@
 #EXTINF:********canales colombia******
 #EXTINF:-1 tvg-id="106774" tvg-name="noticias caracol" group-title="television" television="true" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200", noticias caracol
-https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1  tvg-name="señal colombia" group-title="television" television="true" tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200", señal colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
@@ -43,6 +43,9 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1, tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Canal Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
 #EXTINF:****canales entrenimineto***
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
@@ -77,7 +80,8 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 #EXTINF:-1 tvg-id="309" tvg-name="Canal 9 Televida" tvg-logo="https://i2.paste.pics/a0c27f3f882a92a4e8436a3d1eb286f9.png", Canal 9 Televida | AR
 https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1, tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200",Music Channel
+http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTM3U radios alternativas
 #EXTINF:-1,tvg-logo="http://image.noelshack.com/minis /2017/02/1484272726-somafm.png" group-title="radio" radio="true",Groove Salad
