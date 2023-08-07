@@ -63,56 +63,12 @@ https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="AR" tvg-url="" group-title="News",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-
-#EXTM3U 
-#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png", + Listas en M3U.CL * | CL
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1421" tvg-name="13 Kids" tvg-logo="https://i2.paste.pics/fe14daf029d32fcab7f6305dc2e7a86e.png", 13 Kids | CL
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png", Anime Zone TV | AR
-http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png", AnimeStation | AR
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1279" tvg-name="Chiquilines - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Chiquilines - Freetv.com | US
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png", Dreiko TV | PA
-https://cloudvideo.servers10.com:8081/8138/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://i2.paste.pics/5efe361b75000b6eb6104bf22a0880fe.png", EnerGeek | CL
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1112" tvg-name="Energeek Fanpop TV" tvg-logo="https://i2.paste.pics/4b8fc07c5509133947987dc74a770eab.png", Energeek Fanpop TV | CL
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://i.paste.pics/4a15cf6d76aaf3246f3a6cedd48e0ac9.png", EnerGeek Radio | CL
-https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV | UY
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion | AR
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1305" tvg-name="Magic Club" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png", Magic Club | AR
-https://stream-linkyprojects.linky.com.co/hls/magicclub.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1304" tvg-name="Magic Kids" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png", Magic Kids | AR
-https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://i2.paste.pics/dad53a17aceb11d80b7ec90ec2398f2f.png", Moni TV | CL
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png", NTV | CL
-https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka | AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://lh3.googleusercontent.com/-5wlAQ6nLfW4/YF5I0iHgH3I/AAAAAAABA90/HsqEimRfhGARstgd044vc0ZkynUYntbTACK8BGAsYHg/s512/2021-03-26.jpg", Pequeradio TV | ES
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1015" tvg-name="PlanetaTV Kids" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Kids | CL
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV | AR
-https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="71" tvg-name="Antofagasta TV" tvg-logo="https://lh3.googleusercontent.com/-37Qp1y0Froc/YLwMLWKi5ZI/AAAAAAABCr8/VATYbRiDFL4hNT7IqD8DL3tC8Y8QeUCjgCJEEGAsYHg/s512/2021-06-05.png", Antofagasta TV | CL
-https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="76" tvg-name="Canal 2 de San Antonio" tvg-logo="https://lh3.googleusercontent.com/-8rzHJZdq8rY/Xb2AX9UW_tI/AAAAAAAAr58/gqkZ21n2nf4rm5Ah-lzNOz5ch6_JVUS5wCK8BGAsYHg/s0/2019-11-02.png", Canal 2 de San Antonio | CL
-https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="86" tvg-name="Canal 2 Quellon" tvg-logo="https://i2.paste.pics/ef4396a3c62252b1678b3fae595b0532.png", Canal 2 Quellon | CL
-https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="81" tvg-name="Contivision" tvg-logo="https://i2.paste.pics/984d0dc323bfe7d9b973ad47fc76639d.png", Contivision | CL
-https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="85" tvg-name="Decima TV" tvg-logo="https://lh3.googleusercontent.com/-3q8oUK7uUUo/XbCzDBxA1OI/AAAAAAAArlU/FPIAOQc92_kSKByiVYmSU0USaROnneutgCK8BGAsYHg/s0/2019-10-23.png", Decima TV | CL
-https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="74" tvg-name="Girovisual TV" tvg-logo="https://i2.paste.pics/11ba44db3bc04558ed204a000c65c266.png", Girovisual TV | CL
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="72" tvg-name="Holvoet TV" tvg-logo="https://i2.paste.pics/2fb632fb69ae1c422609fdbf6c5a3fb4.png", Holvoet TV | CL
