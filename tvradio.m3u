@@ -43,43 +43,24 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SophiaTV.es" tvg-name="Sophia TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="",Sophia TV (720p)
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) - ENTRETENIMIENTO:HBTV Ticavision (Costa Rica)
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Telenord8.do" tvg-name="Telenord 8" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-H6WpFuwnBw8/Xb8tpN3x27I/AAAAAAAAowE/i8xCRlptBkEGIn9nxcfdajE2ieOQ07GGQCLcBGAsYHQ/s200/Telenord.jpg" group-title="",Telenord 8 (1080p)
-http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10.sv" tvg-name="Canal 10" tvg-country="SV" tvg-language="" tvg-logo="https://i.imgur.com/Iy5jUjV.png" group-title="",Canal 10
-http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-country="PE" tvg-url="" group-title="",Panamericana TV
-https://cdnhd.iblups.com/hls/ptv2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multivision.png" group-title="Entretenimiento", Multivision Argentina
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iQtrqmc.jpg" tvg-country="VE" tvg-url="" group-title="",Promar TV
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalCatorce.mx" tvg-name="Canal Catorce" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="",Canal Catorce (720p)
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 #EXTINF:-1 tvg-id="24TVCulturalesPeru.pe" tvg-name="24 TV Culturales (Peru)" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="Culture",24 TV Culturales (Peru) [Not 24/7]
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
-#EXTINF:-1 tvg-id="RoccoTV.cl" tvg-name="Rocco TV" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://roccotv.cl/wp-content/uploads/2015/02/roccotv.png" group-title="",Rocco TV (Coyhaique) (240p) [Not 24/7]
-http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SercanoTV.hn" tvg-name="Sercano TV" tvg-country="HN" tvg-language="Spanish" tvg-logo="" group-title="",Sercano TV (720p)
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TelefuturoCanal23.do" tvg-name="Telefuturo Canal 23" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0Bbj2lh.jpg" group-title="",Telefuturo Canal 23 (720p)
-http://ss8.domint.net:2118/tf_str/futu/master.m3u8
 #EXTINF:-1,Wow TV www.achoAPPS.com
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="80292" tvg-name="Telemax" tvg-logo="https://lh3.googleusercontent.com/-GggE-B4xtSM/XjtGaEx2_9I/AAAAAAAAvqA/r5bbq1zR7V4HHwTrWskHzdF7ddfuQjA-QCK8BGAsYHg/s0/2020-02-05.png", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80660" tvg-name="Canal 2 Mar del Plata" tvg-logo="https://lh3.googleusercontent.com/-JtAR5L5DJTM/Xx4FT5BIoII/AAAAAAAA3hI/MrIvjOkijt0tl7brflyUUTS_gBsJiGxOgCK8BGAsYHg/s0/2020-07-26.png", Canal 2 Mar del Plata
-#EXTINF:-1 tvg-id="100588" tvg-name="Canal 7 Salta" tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png", Canal 7 Salta
-https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="108926" tvg-name="Canal 10 Rio Negro" tvg-logo="https://lh3.googleusercontent.com/-RPgMJ90DCeU/XjtIXwH4L3I/AAAAAAAAvqs/HoaDT_pgUukebIWHY7ndUkZs1fiQerE_ACK8BGAsYHg/s0/2020-02-05.png", Canal 10 Rio Negro
 https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="80286" tvg-name="Canal 9 Televida Mendoza" tvg-logo="https://lh3.googleusercontent.com/-TmHTUs7Ojw8/XjtIHEuqGMI/AAAAAAAAvqk/yPmGUO113SwEYcMbOYumWR6oklPgmrvOQCK8BGAsYHg/s0/2020-02-05.png", Canal 9 Televida Mendoza
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4QUyVBQ.png" tvg-url="" group-title="",ESTV (720p)
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TicaVision.cr" tvg-name="TicaVisiÃ³n" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pjRfKkr.jpg" group-title="",TicaVisiÃ³n (720p)
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="Entertainment",ATV (Lima)
 http://186.101.216.211:8000/play/a073
 #EXTINF:-1 tvg-id="Amordiscos.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://amordiscostv.com/wp-content/uploads/2021/02/thumbnail_Logo-Amordiscos-600x600-alpha-150x150.png" group-title="Music",Amordiscos
