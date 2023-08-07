@@ -41,6 +41,8 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="pinguino" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" tvg-country="CL" tvg-url="" group-title="",El PingÃ¼ino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:****canales entrenimineto***
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
@@ -60,6 +62,8 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="271" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26 | AR
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1,CANAL 10 CHETUMAL
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200",¡HOLA! Play
