@@ -63,7 +63,8 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
 http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
-
+#EXTINF:-1 tvg-id="309" tvg-name="Canal 9 Televida" tvg-logo="https://i2.paste.pics/a0c27f3f882a92a4e8436a3d1eb286f9.png", Canal 9 Televida | AR
+https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTM3U radios alternativas
@@ -387,5 +388,8 @@ http://1aradio.radionetz.de:8000/burn-fm.mp3
 http://hd.lagrosseradio.info:8000/lagrosseradio-metal-192.mp3
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1552392752.jpg" group-title="radio" radio="true", Radio Kołobrzeg 90.2 FM – Przez Cały
 http://graj.radiokolobrzeg.pl:8000/stream/1/
-
+#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg" group-title="radio" radio="true",Flaix FM
+https://flaixfm.streaming-pro.com:8001/flaixfm.mp3
+EXTINF:-1 radio="true" tvg-id="S_Guadix.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="radio" radio="true",SER Guadix
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIX.mp3
 
