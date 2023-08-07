@@ -393,6 +393,6 @@ http://hd.lagrosseradio.info:8000/lagrosseradio-metal-192.mp3
 http://graj.radiokolobrzeg.pl:8000/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg" group-title="radio" radio="true",Flaix FM
 https://flaixfm.streaming-pro.com:8001/flaixfm.mp3
-EXTINF:-1 radio="true" tvg-id="S_Guadix.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="radio" radio="true",SER Guadix
+#EXTINF:-1 radio="true" tvg-id="S_Guadix.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="radio" radio="true",SER Guadix
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIX.mp3
 
