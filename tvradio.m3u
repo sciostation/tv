@@ -50,6 +50,14 @@ https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="251" tvg-name="13 Max Television" tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png", 13 Max Television | AR
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="221" tvg-name="5R TV Santa Fe" tvg-logo="https://i2.paste.pics/2154f26cfec10ed6642020dad09849b3.png", 5R TV Santa Fe | AR
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="249" tvg-name="5TV" tvg-logo="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png", 5TV | AR
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://i2.paste.pics/10b46fbb81287d68e7a08d726c274404.png", America Tucuman | AR
+https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="271" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26 | AR
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:****canales de tv de musica***
 #EXTINF:-1 ,RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
