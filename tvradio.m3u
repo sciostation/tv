@@ -34,23 +34,13 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 , canal-rtp-bolivia
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",24 Horas
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
-#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=320&height=320" group-title="News",Exitosa TV
-https://cu.onliv3.com/livevd1/user2.m3u8
 #EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-name="Euronews " tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="News",Euronews en EspaÃ±ol (720p)
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="pinguino" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" tvg-country="CL" tvg-url="" group-title="",El PingÃ¼ino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
 #EXTINF:****canales entrenimineto***
-#EXTINF:-1 tvg-id="Vallevision.do" tvg-name="Vallevision" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="",Vallevision (720p)
-http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
-#EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-name="Telefe Rosario" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Local",Telefe Rosario (720p)
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="LA7.es" tvg-name="LA7" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/rtvcyl/picture?width=320&height=320" group-title="",LA7
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 #EXTINF:-1 tvg-id="SophiaTV.es" tvg-name="Sophia TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="",Sophia TV (720p)
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) - ENTRETENIMIENTO:HBTV Ticavision (Costa Rica)
