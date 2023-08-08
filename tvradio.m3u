@@ -86,6 +86,8 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1, tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200",Muzzik TV
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200",Muzzik Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 #EXTM3U radios alternativas
 #EXTINF:-1,tvg-logo="http://image.noelshack.com/minis /2017/02/1484272726-somafm.png" group-title="radio" radio="true",Groove Salad
 http://ice1.somafm.com/groovesalad-128-mp3
