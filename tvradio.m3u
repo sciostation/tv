@@ -33,19 +33,16 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 #EXTINF:-1,CGTN  (Opt-1) www.achoAPPS.com
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" tvg-url="" group-title="",Euronews
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 , canal-rtp-bolivia
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
-#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-name="Euronews " tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="News",Euronews en EspaÃ±ol (720p)
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="pinguino" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" tvg-country="CL" tvg-url="" group-title="",El PingÃ¼ino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1, tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-
+#EXTINF:-1,tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200",FOX Live Now USA
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:****canales entrenimineto***
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
@@ -71,19 +68,24 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200",¡HOLA! Play
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200",FOX Live Now USA
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="309" tvg-name="Canal 9 Televida" tvg-logo="https://i2.paste.pics/a0c27f3f882a92a4e8436a3d1eb286f9.png", Canal 9 Televida | AR
+https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:****canales de tv de musica***
 #EXTINF:-1 ,RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
 http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
-#EXTINF:-1 tvg-id="309" tvg-name="Canal 9 Televida" tvg-logo="https://i2.paste.pics/a0c27f3f882a92a4e8436a3d1eb286f9.png", Canal 9 Televida | AR
-https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, tvg-logo=""https://graph.facebook.com/molahitstv/picture?width=200&height=200, urban tv
+https://urbanrevolution.es:8443/live/TV/master.m3u8
 #EXTINF:-1, tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200",Music Channel
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1, tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200",Qmusic
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1, tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200",First Music Channel
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1, tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200",Muzzik TV
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTM3U radios alternativas
 #EXTINF:-1,tvg-logo="http://image.noelshack.com/minis /2017/02/1484272726-somafm.png" group-title="radio" radio="true",Groove Salad
 http://ice1.somafm.com/groovesalad-128-mp3
