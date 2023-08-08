@@ -36,9 +36,9 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 #EXTINF:-1  tvg-id="Cgtn.TV",CGTN  (Opt-1) www.achoAPPS.com
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 , canal-rtp-bolivia
+#EXTINF:-1  tvg-id="Rtpbolivia.TV", canal-rtp-bolivia
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="pinguino" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" tvg-country="CL" tvg-url="" group-title="",El PingÃ¼ino TV
+#EXTINF:-1 tvg-id="Pinguino.TV" tvg-name="pinguino" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" tvg-country="CL" tvg-url="" group-title="",El Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
