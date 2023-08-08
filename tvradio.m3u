@@ -82,7 +82,8 @@ http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200",Music Channel
 http://hz1.teleport.cc/HLS/HD.m3u8
-
+#EXTINF:-1, tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200",Qmusic
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTM3U radios alternativas
 #EXTINF:-1,tvg-logo="http://image.noelshack.com/minis /2017/02/1484272726-somafm.png" group-title="radio" radio="true",Groove Salad
 http://ice1.somafm.com/groovesalad-128-mp3
