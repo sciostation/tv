@@ -75,7 +75,8 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 #EXTINF:-1 tvg-id="Televida.TV" tvg-name="Canal 9 Televida" tvg-logo="https://i2.paste.pics/a0c27f3f882a92a4e8436a3d1eb286f9.png", Canal 9 Televida | AR
 https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-id="Canal1.TV" tvg-name="Canal 1" tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png", Canal 1 | CR
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8?PlaylistM3UCL
 #EXTINF:****canales de tv de musica***
 #EXTINF:-1 tvg-id="Retromusic.TV" ,RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
