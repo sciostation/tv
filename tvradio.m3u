@@ -40,44 +40,44 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
 #EXTINF:-1 tvg-id="Pinguino.TV" tvg-name="pinguino" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" tvg-country="CL" tvg-url="" group-title="",El Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 
+#EXTINF:-1 tvg-id="Canal9.TV"  tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1, tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Canal Once
+#EXTINF:-1, tvg-id="Canal11.TV" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200",FOX Live Now USA
+#EXTINF:-1,tvg-id="Fox.TV"tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200",FOX Live Now USA
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:****canales entrenimineto***
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
+#EXTINF:-1 tvg-id="Telecanal28.TV" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="SophiaTV.es" tvg-name="Sophia TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="",Sophia TV (720p)
+#EXTINF:-1 tvg-id="Sophia.TV" tvg-name="Sophia TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="",Sophia TV (720p)
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
-#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV * | UY
+#EXTINF:-1 tvg-id="LatinoKids.TV" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV * | UY
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="279" tvg-name="Chaco TV" tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png", Chaco TV | AR
+#EXTINF:-1 tvg-id="Chaco.TV" tvg-name="Chaco TV" tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png", Chaco TV | AR
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="251" tvg-name="13 Max Television" tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png", 13 Max Television | AR
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="221" tvg-name="5R TV Santa Fe" tvg-logo="https://i2.paste.pics/2154f26cfec10ed6642020dad09849b3.png", 5R TV Santa Fe | AR
+#EXTINF:-1 tvg-id="Santafe.TV" tvg-name="5R TV Santa Fe" tvg-logo="https://i2.paste.pics/2154f26cfec10ed6642020dad09849b3.png", 5R TV Santa Fe | AR
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="249" tvg-name="5TV" tvg-logo="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png", 5TV | AR
+#EXTINF:-1 tvg-id="5.TV" tvg-name="5TV" tvg-logo="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png", 5TV | AR
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://i2.paste.pics/10b46fbb81287d68e7a08d726c274404.png", America Tucuman | AR
+#EXTINF:-1 tvg-id="Tucuman.TV" tvg-name="America Tucuman" tvg-logo="https://i2.paste.pics/10b46fbb81287d68e7a08d726c274404.png", America Tucuman | AR
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="271" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26 | AR
+#EXTINF:-1 tvg-id="Canal26.TV" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26 | AR
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",ADN40
+#EXTINF:-1,tvg-id="Adn40.TV"tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1,CANAL 10 CHETUMAL
+#EXTINF:-1,tvg-id="Chetumal.TV"CANAL 10 CHETUMAL
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200",¡HOLA! Play
+#EXTINF:-1,tvg-id="HolaPlay.TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200",¡HOLA! Play
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
-#EXTINF:-1 tvg-id="309" tvg-name="Canal 9 Televida" tvg-logo="https://i2.paste.pics/a0c27f3f882a92a4e8436a3d1eb286f9.png", Canal 9 Televida | AR
+#EXTINF:-1 tvg-id="Televida.TV" tvg-name="Canal 9 Televida" tvg-logo="https://i2.paste.pics/a0c27f3f882a92a4e8436a3d1eb286f9.png", Canal 9 Televida | AR
 https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:****canales de tv de musica***
-#EXTINF:-1 ,RETRO MUSIC TV
+#EXTINF:-1 tvg-id="Retromusic.TV" ,RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
+#EXTINF:-1 tvg-id="Musictop.TV" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
 http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 #EXTINF:-1, tvg-logo=""https://graph.facebook.com/molahitstv/picture?width=200&height=200, urban tv
 https://urbanrevolution.es:8443/live/TV/master.m3u8
