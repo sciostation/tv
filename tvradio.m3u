@@ -10,41 +10,41 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinear.TV" tvg-name="CINE.AR"  group-title="television" television="true" tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png", CINE.AR * | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Dan.TV"tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/02/logo-de-pu%C3%B1al-tv.png"  group-title="television" television="true", Dan Tv
+#EXTINF:-1 tvg-id="Dan.TV" group-title="television" television="true" tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/02/logo-de-pu%C3%B1al-tv.png"  group-title="television" television="true", Dan Tv
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
-#EXTINF:-1, tvg-id="Telemilenio.TV",Telemilenio Canal 50 
+#EXTINF:-1, tvg-id="Telemilenio.TV" group-title="television" television="true",Telemilenio Canal 50 
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TopCine.TV" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Movies",Top Cine (1080p)
+#EXTINF:-1 tvg-id="TopCine.TV" group-title="television" television="true" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Movies",Top Cine (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="Wow.TV"  group-title="television" television="true", Wow TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="5RTvar.TV" tvg-name="5RTv" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="",5RTv (720p)
+#EXTINF:-1 tvg-id="5RTvar.TV" tvg-name="5RTv" tvg-country="AR" group-title="television" television="true" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="",5RTv (720p)
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1,tvg-id="Cartoon.TV",Cartoon Network Latino
+#EXTINF:-1,tvg-id="Cartoon.TV" group-title="television" television="true",Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1,tvg-id="Retropalmares.TV",Retro Palmares tv
+#EXTINF:-1,tvg-id="Retropalmares.TV" group-title="television" television="true",Retro Palmares tv
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8 
 #EXTINF:****canales variedad***
-#EXTINF:-1 tvg-id="Dogs.TV" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" tvg-url="" group-title="",Dogs 24/7
+#EXTINF:-1 tvg-id="Dogs.TV" group-title="television" television="true" tvg-logo="http://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" tvg-url="" group-title="",Dogs 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:********noticias******
-#EXTINF:-1 tvg-id="Euronews.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="Informativos" tvg-name="Euronews",Euronews
+#EXTINF:-1 tvg-id="Euronews.TV" group-title="television" television="true" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="Informativos" tvg-name="Euronews",Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="Pais.TV" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="Informativos" tvg-name="El Pai­s",El Pai­s
+#EXTINF:-1  tvg-id="Pais.TV" group-title="television" television="true" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="Informativos" tvg-name="El Pai­s",El Pai­s
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-id="BHTV.TV" tvg-name="BHTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png"  group-title="television" television="true",BHTV (720p)
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Bailen.TV" tvg-logo="https://graph.facebook.com/BailenTv/picture?width=200&height=200" group-title="AndalucÃ­a"group-title="television" television="true",BailÃ©n TV
+#EXTINF:-1 tvg-id="Bailen.TV" tvg-logo="https://graph.facebook.com/BailenTv/picture?width=200&height=200" group-title="television" television="true",Bailen TV
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
-#EXTINF:-1  tvg-id="Cgtn.TV",CGTN  (Opt-1) www.achoAPPS.com
+#EXTINF:-1  tvg-id="Cgtn.TV" group-title="television" television="true",CGTN  
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1  tvg-id="Rtpbolivia.TV", canal-rtp-bolivia
+#EXTINF:-1  tvg-id="Rtpbolivia.TV" group-title="television" television="true", canal-rtp-bolivia
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
-#EXTINF:-1 tvg-id="Pinguino.TV" tvg-name="pinguino" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" tvg-country="CL" tvg-url="" group-title="",El Pinguino TV
+#EXTINF:-1 tvg-id="Pinguino.TV" tvg-name="pinguino" tvg-language="Spanish" group-title="television" television="true" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" tvg-country="CL" tvg-url="" group-title="",El Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal6.TV"  tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 
+#EXTINF:-1 tvg-id="Canal6.TV" group-title="television" television="true" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1, tvg-id="Canal11.TV" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Canal Once
+#EXTINF:-1, tvg-id="Canal11.TV" group-title="television" television="true" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1,tvg-id="Fox.TV"tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200",FOX Live Now USA
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
