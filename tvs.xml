@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+	<channel id="Caracol.TV">
+		<display-name>Caracol.TV</display-name>
+	</channel>
+	<channel id="Colombia.TV">
+		<display-name>Colombia.TV</display-name>
+	</channel>
+	<channel id="Dorada.TV">
+		<display-name>Dorada.TV</display-name>
+	</channel>
+	<channel id="Colosal.TV">
+		<display-name>Colosal.TV</display-name>
+	</channel>
+	<channel id="Cinear.TV">
+		<display-name>Cinear.TV</display-name>
+	</channel>
+	<channel id="Dan.TV">
+		<display-name>Dan.TV</display-name>
+	</channel>
+	<channel id="Telemilenio.TV">
+		<display-name>Telemilenio.TV</display-name>
+	</channel>
+	<channel id="TopCine.TV">
+		<display-name>TopCine.TV</display-name>
+	</channel>
+	<channel id="Wow.TV">
+		<display-name>Wow.TV</display-name>
+	</channel>
+	<channel id="5RTvar.TV">
+		<display-name>5RTvar.TV</display-name>
+	</channel>
+	<channel id="Cartoon.TV">
+		<display-name>Cartoon.TV</display-name>
+	</channel>
+	<channel id="Retropalmares.TV">
+		<display-name>Retropalmares.TV</display-name>
+	</channel>
+	<channel id="Dogs.TV">
+		<display-name>Dogs.TV</display-name>
+	</channel>
+	<channel id="Euronews.TV">
+		<display-name>Euronews.TV</display-name>
+	</channel>
+	<channel id="Pais.TV">
+		<display-name>Pais.TV</display-name>
+	</channel>
+	<channel id="BHTV.TV">
+		<display-name>BHTV.TV</display-name>
+	</channel>
+	<channel id="Bailen.TV">
+		<display-name>Bailen.TV</display-name>
+	</channel>
+	<channel id="Cgtn.TV.TV">
+		<display-name>Cgtn.TV</display-name>
+	</channel>
+	<channel id="Rtpbolivia.TV">
+		<display-name>Rtpbolivia.TV</display-name>
+	</channel>
+	<channel id="Pinguino.TV">
+		<display-name>Pinguino.TV</display-name>
+	</channel>
+	<channel id="Canal6.TV">
+		<display-name>Canal6.TV</display-name>
+	</channel>
+	<channel id="Canal11.TV">
+		<display-name>Canal11.TV</display-name>
+	</channel>
+	<channel id="Fox.TV">
+		<display-name>Fox.TV</display-name>
+	</channel>
+	<channel id="Telecanal28.TV">
+		<display-name>Telecanal28.TV</display-name>
+	</channel>
+	<channel id="Sophia.TV">
+		<display-name>Sophia.TV</display-name>
+	</channel>
+	<channel id="LatinoKids.TV">
+		<display-name>LatinoKids.TV</display-name>
+	</channel>
+	<channel id="Chaco.TV">
+		<display-name>Chaco.TV</display-name>
+	</channel>
+	<channel id="DMax.TV">
+		<display-name>DMax.TV</display-name>
+	</channel>
+	<channel id="Santafe.TV">
+		<display-name>Santafe.TV</display-name>
+	</channel>
+	<channel id="5.TV">
+		<display-name>5.TV</display-name>
+	</channel>
+	<channel id="Tucuman.TV">
+		<display-name>Tucuman.TV</display-name>
+	</channel>
+	<channel id="Canal26.TV">
+		<display-name>Canal26.TV</display-name>
+	</channel>
+	<channel id="Adn40.TV">
+		<display-name>Adn40.TV</display-name>
+	</channel>
+	<channel id="Chetumal.TV">
+		<display-name>Chetumal.TV</display-name>
+	</channel>
+	<channel id="HolaPlay.TV">
+		<display-name>HolaPlay.TV</display-name>
+	</channel>
+	<channel id="Televida.TV">
+		<display-name>Televida.TV</display-name>
+	</channel>
+	<channel id="Canal1.TV">
+		<display-name>Canal1.TV</display-name>
+	</channel>
+	<channel id="Retromusic.TV">
+		<display-name>Retromusic.TV</display-name>
+	</channel>
+	<channel id="Musictop.TV">
+		<display-name>Musictop.TV</display-name>
+	</channel>
+	<channel id="Urban.TV">
+		<display-name>Urban.TV</display-name>
+	</channel>
+	<channel id="Music.TV">
+		<display-name>Music.TV</display-name>
+	</channel>
+	<channel id="Qmusic.TV">
+		<display-name>Qmusic.TV</display-name>
+	</channel>
+	<channel id="Firsmusic.TV">
+		<display-name>Firsmusic.TV</display-name>
+	</channel>
+	<channel id="Muzzik.TV">
+		<display-name>Muzzik.TV</display-name>
+	</channel>
+	<channel id="MRockTV">
+		<display-name>MRockTV</display-name>
+	</channel>
+	<channel id="Mcafe.TV">
+		<display-name>Mcafe.TV</display-name>
+	</channel>
+	<channel id="Toplatino.TV">
+		<display-name>Toplatino.TV</display-name>
+	</channel>
+	<programme channel="Caracol.TV" start="20230808040000 +0000" stop="20230808065000 +0000">
+		<title>Caracol Ahora</title>
+		<desc>Estas son las emisiones de Noticias Caracol que se emiten a diario en pantalla. Primera Emisión, Emisión mediodía, Emisión central y última emisión..</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518403"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="Colombia.TV" start="20230808065000 +0000" stop="20230808081000 +0000">
+		<title>Señal Colombia</title>
+		<desc>Descubre la mejor experiencia de la TV: series, películas, documentales, programas infantiles, especiales culturales y deportivos. .</desc>
+		<icon src="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Colombia.TV" start="20230808081000 +0000" stop="20230808093000 +0000">
+		<title>Franja Señal Colombia Deportes</title>
+		<desc>Las tardes del fin de semana están llenas de emoción deportiva en la pantalla de Señal Colombia, con transmisiones de importantes eventos.</desc>
+		<icon src="https://s3.amazonaws.com/rtvc-assets-parrilla.rtvc.gov.co/s3fs-public/Captura.JPG"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Dorada.TV" start="20230808093000 +0000" stop="20230808120000 +0000">
+		<title>Canal Visión Dorada – Canal Regional</title>
+		<desc> canal regional Cumplimos 27 Años Al Aire películas, documentales, programas infantiles.</desc>
+		<icon src="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Colosal.TV" start="20230808120000 +0000" stop="20230808121000 +0000">
+		<title>Colosal tv </title>
+		<desc>Canal Regional  películas, documentales, programas infantiles.</desc>
+		<icon src="https://www.colosalstereo.com/IMG/BotonRadio.png">
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Cinear.TV" start="20230808121000 +0000" stop="20230808130000 +0000">
+		<title>Cine Art</title>
+		<desc>Es el canal de televisión del cine argentino. Películas, cortometrajes, documentales, noticias y todo lo que querés saber sobre el cine nacional.</desc>
+		<icon src="https://www.m3u.cl/logo/208_CINE_AR.png"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Dan.TV" start="20230808130000 +0000" stop="20230808135000 +0000">
+		<title>Dan.TV</title>
+		<desc>Canal Regional  películas, documentales, programas infantiles.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518438"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Telemilenio.TV" start="20230808135000 +0000" stop="20230808141500 +0000">
+		<title>Telemilenio Canal 50 </title>
+		<desc>informativo  para el ciudadano.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2189999"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="TopCine.TV" start="20230808141500 +0000" stop="20230808142500 +0000">
+		<title>Top Cine</title>
+		<desc>Las mejores peliculas 24 horas.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel=""Wow.TV" start="20230808142500 +0000" stop="20230808153000 +0000">
+		<title>WOW TV EL SALVADOR</title>
+		<desc>Canal Regional  películas, documentales, programas infantiles.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3090042"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="5RTvar.TV" start="20230808153000 +0000" stop="20230808162500 +0000">
+		<title>Santa Fe Canal</title>
+		<desc>conocido anteriormente como 5RTV, es un canal de televisión abierta argentino que transmite desde la ciudad de Recreo. El canal se llega a ver en parte de la Provincia de Santa Fe y zonas aledañas. Es operado por el Gobierno de Santa Fe a través de la empresa pública Radio y Televisión Santafesina Sociedad del Estado.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1070472"/>
+		<category>Series</category>
+	</programme>
+	<programme channel="Cartoon.TV" start="20230808162500 +0000" stop="20230808172500 +0000">
+		<title>Cartoon Network </title>
+		<desc>Canal de Dibujos Animados en español su programación en los géneros de acción y comedia, y comparte horario de programación con el canal Adult Swim desde las 7:00 p.m. hasta las 6:00 a. m. es propiedad de The Cartoon Network Inc, subsidiaria de Warner Bros.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2180370"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Retropalmares.TV" start="20230808172500 +0000" stop="20230808183000 +0000">
+		<title>TV Retro Palmares</title>
+		<desc>Miramos en los programas de las décadas pasadas una forma más sana de entretenimiento.películas, series, música y animados, llamados corte clásicos y que son muy difíciles de observar en la televisión abierta.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2135465"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Dogs.TV" start="20230808183000 +0000" stop="20230808190000 +0000">
+		<title>Dogs tv</title>
+		<desc>No somos solo TV, sino el primer canal creado para traer música y videos relajantes para perros, creados específicamente para una audiencia canina..</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2191704"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="Euronews.TV" start="20230808190000 +0000" stop="20230808195000 +0000">
+		<title>Euronews</title>
+		<desc>Euronews es un canal de televisión temático dedicado a la información.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518466"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="Pais.TV" start="20230808195000 +0000" stop="20230808203500 +0000">
+		<title>Televisión en EL PAÍS</title>
+		<desc>Toda la actualidad de la televisión: famosos, programas, series tv y toda la programación con EL PAÍS..</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3091152"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="BHTV.TV" start="20230808203500 +0000" stop="20230808214500 +0000">
+		<title>BHtv</title>
+		<desc>Brindar entretenimiento e información de calidad. Satisfacer las necesidades de nuestros televidentes.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3090044"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Bailen.TV" start="20230808214500 +0000" stop="20230808233500 +0000">
+		<title>Bailen</title>
+		<desc>Canal Regional  películas, documentales, programas infantiles.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3090046"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Cgtn.TV" start="20230808233500 +0000" stop="20230809003500 +0000">
+		<title>Cgtn</title>
+		<desc>La Cadena Global de Televisión de China. Su objetivo es proporcionar una cobertura noticiosa precisa y oportuna a audiencias globales, así como una gran variedad de servicios audiovisuales, promoviendo la comunicación y el entendimiento entre China y el mundo</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1948679"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Rtpbolivia.TV" start="20230809003500 +0000" stop="20230809021000 +0000">
+		<title>RTP Informa</title>
+		<desc>Somos un Sistema de Comunicación Popular comprometido con el bienestar de la comunidad,.</desc>
+		<icon src="https://rtpbolivia.com.bo/wp-content/uploads/elementor/thumbs/Logo800-q7ydinf88s6s2skjnyjd1vt91n6zi980xvt55ezhae.png"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="Pinguino.TV" start="20230809021000 +0000" stop="20230809040000 +0000">
+		<title>Pinguino</title>
+		<desc> Somos Pingüino Multimedia, la plataforma comunicacional más grande de la zona austral de Chile y Argentina.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518403"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="Canal6.TV" start="20230809040000 +0000" stop="20230809043000 +0000">
+		<title>Noticias 24H</title>
+		<desc>Noticias de los servicios informativos del Canal 24 Horas. Producido por TelevisiÃ³n EspaÃ±ola, este canal estÃ¡ dedicado Ã­ntegramente a ofrecer informaciÃ³n de actualidad y es el mÃ¡s antiguo de los canales de este tipo en EspaÃ±a.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518403"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="Canal11.TV" start="20230809043000 +0000" stop="20230809063000 +0000">
+		<title>Noticias 24H</title>
+		<desc>Noticias de los servicios informativos del Canal 24 Horas.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518404"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="Fox.TV" start="20230809063000 +0000" stop="20230809072000 +0000">
+		<title>FOX News Live</title>
+		<desc>Fox News Live on Fox News Channel reports the latest national and world news. Get expert insight on health, politics and military matters..</desc>
+		<icon src="https://graph.facebook.com/livenowfox/picture?width=200&height=200"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="Telecanal28.TV" start="20230809072000 +0000" stop="20230809093000 +0000">
+		<title>Telecanal 28</title>
+		<desc>Canal Regional  películas, documentales, programas infantiles.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2160843"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="La1.TV" start="20230809093000 +0000" stop="20230809120000 +0000">
+		<title>Hablando claro</title>
+		<desc>MagacÃ­n diario que contarÃ¡ el minuto a minuto de todo lo que ocurra durante la franja horaria en la que se emite. La actualidad y las conexiones en directo serÃ¡n sus principales argumentos. Un amplio equipo de reporteros se encargarÃ¡ de tomar el pulso a las noticias.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2122553"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Sophia.TV" start="20230809120000 +0000" stop="20230809121000 +0000">
+		<title>Sophia TV Spanish</title>
+		<desc>Sophia TV Spanish es un canal religioso (evangelista) transmite desde Marktheidenfeld, Baviera, Alemania, .</desc>
+		<icon src="https://i.imgur.com/RPXusvS.png"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="LatinoKids.TV" start="20230809121000 +0000" stop="20230809130000 +0000">
+		<title>Latino Kids TV </title>
+		<desc>Latino Kids TV Uruguay, es una idea y proyecto para entretener a los mas chicos de la casa y a los no tan chicos también, con programación variada..</desc>
+		<icon src="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Chaco.TV" start="20230809130000 +0000" stop="20230809134500 +0000">
+		<title>Chaco TV</title>
+		<desc> Canal Regional  .</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518438"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="DMax.TV" start="20230809134500 +0000" stop="20230809135000 +0000">
+		<title>13 Max Television</title>
+		<desc>Rio Paraná Tv Canal 13 de Corrientes,Somos el Canal de Televisión Abierta de la Ciudad de Corrientes, el medio de comunicación más importante de la región, con un alto porcentaje de penetración en toda la sociedad, sin restricciones económicas ni sociales y de acceso gratuito..</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3084561"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="Santafe.TV" start="20230809135000 +0000" stop="20230809141500 +0000">
+		<title>Santafe TV</title>
+		<desc> Canal Regional Televisión Santafesina es una empresa del Estado.</desc>
+		<icon src="https://i2.paste.pics/2154f26cfec10ed6642020dad09849b3.png"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="5.TV" start="20230809141500 +0000" stop="20230809143000 +0000">
+		<title>5TV  AR</title>
+		<desc>Somos primeros en información y contenidos. Innovación constante al servicio de la comunicación..</desc>
+		<icon src="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="Tucuman.TV" start="20230809143000 +0000" stop="20230809153000 +0000">
+		<title>Tucuman.TV</title>
+		<desc>es un canal de televisión abierta argentino afiliado a Telefe , parte de la programación del canal consiste en retransmitir parte de los contenidos del Canal 11 de Buenos Aires .</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3090048"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="Canal26.TV" start="20230809153000 +0000" stop="20230809162000 +0000">
+		<title>Todas las noticias de día en nuestro canal en vivo</title>
+		<desc>Noticias de Argentina y el Mundo.</desc>
+		<icon src="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="Adn40.TV" start="20230809162000 +0000" stop="20230809172000 +0000">
+		<title>Adn40 TV</title>
+		<desc>Noticias en vivo de hoy en México y el mundo por ADN 40.</desc>
+		<icon src="https://graph.facebook.com/ADN40mx/picture?width=200&height=200"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="Chetumal.TV" start="20230809172000 +0000" stop="20230809183000 +0000">
+		<title>Chetumal - Noticias Canal 10</title>
+		<desc>Noticias en vivo.</desc>
+		<icon src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAilBMVEX/////AAD/Zmb/a2v/dnb/r6//vLz/iYn/GBj/srL/mJj/2dn/+Pj/U1P/cHD/Skr/W1v/4OD/NDT/o6P/enr/Ozv/mpr/wcH/ycn/qan/8fH/5+f/29v/t7f/KSn/QUH/0ND/g4P/kZH/Li7/ODj/Gxv/YWH/Tk7/Dg7/IyP/eXn/hob/RUX/5eUJwWR2AAAIBUlEQVR4nO2d60IaMRCFAS9QRLSAWAFhAW2xl/d/vSLQ1ss5k0mc7LJpzu/N7YPNTibJTKORlZWVlZWVlZWVlZWVlZWVlZWVtnpVd8BCvfijmNy1HpsHbR7n88F6sFgsri53ar3XCVL/NIb6L1o4tP51161v2x4ubtbr9WC+1Waz+TOAzvXwczxUs+tmalrfx0HV61c9sih6LCKw+lL1qKKpbc6qW/WQIuramNXS0dx4OB53u912uz0ajb73n7Wby6/3utrpZqeHwUGdMK0Pxfe13Vz91aGtXbtbbTvSbq+64/Fw2D1dl0jrh9jWXQ2MiclQGsEPw5Y+SQ2tDBuKqrYwiMKslanEyq6Z6Cr4KDZmjVwJrKZmrZSgGR/HnVETktEQ0QSOoVs+EqMWfvIWzo2aKE0jOpQvJvULM1bLpIFSRcdyalL9mMOqgcnwVmd0MCbV8+m9NkbDS9HRmHyqkvpjNRorNppbg8r5lHViUHv5oubD2KBybslZ/BRa9aazoihmU4M/MxvO8uNVC6ZJSW/h57vThxetLkZnHzPuvpLh9A36es5YrVXF6fpV1/oFNoxGRfiA2KQVFZau8tZHYJ09sdLNzTB0QHekRospmMLqqopvWHF30XtKaq9AXMyFEhWWauk5oUN1lZwuHKy2/66gJUolsFT7InwR7ijIXpbXClmjxIRF1wefNKX5Wkkud6Ji1WzOJ94DOl5YdH6XYd0oWW018x1QJbBUryEfpFCoN9ez8nfVHi0sPr9LsLxYNZsXfgM6WliCk5UX8ngH9/LzFxwtLGH/iZbh0xyV18LraGEJA2dFxP09oiufAcWERQ0eDayONyxhA0aQj3slJiz6Sytg9YTxkSJ0eSTLwxFxrLCEXU0CSz4nwKVzgexUCSyF70+af2CBX4GsfDZJjxXW+Wj5rFM1rG+ssXn7vpgV523us1EPiDkzqob1R9rBsde29W9NQ49qqreamGegbrCwV6bz2kRnhq7W2EoEFv5j/Xz72AR/MbXmQyKw4Bt28/45YpEoOxMTFvVImcPCq270dn3+SIfSgAXP+GKXAvy7K0+GpgELrY3YzucDeFY5xVcCy2O3QAXrQodUeFh3WyIJWOh8LN/tugRPf1V1JglYj5qH/gqaGarOpAALndaRjqejhY/KwZwCLLS+lXZu0AdRtUedAixw5+xRqhP9E1VnXGPCojecjGGBNYx8XQtdx9F0JgFYyHyXW0BfT83+dAKwkC9BNjJRiULRmQRggX2RB7lS9F88U3SmEliFvg4FLHDCz3XIE8xyGg9gJbA8ds0VsIBD2fU3AYdDNQNOABZYRReOWsEM/85RCJQALPCE69MG9sqfFJ2pPyw0W7tqRZ9DRWfqDwv5Pl21IjeNojP1hwWcCA7LAS94FP6/mLDoNWxTWOCVch6NQa+uwoSPCYuePjCFBUbgdKmjTR7Fubb6wwIOGrcL4X+FBVY77jPuGVaGFQLLvf0Aav0vJngAK2jO+l9hXYZUq+hM/WGBE2ZOOwuZDorO1B8WuFzstOBD1pONFGCFLIrBenKu6Ez9YYUsisF6cqHoTExYy1JgoUWx68sWZPXHhfW9FFjoEddNQuAP0YSjiwmLBlGKDssVbwrcdtXs3ycAC9ybc23VgKMhmgN2CcACFwscVikyszRXeBKAhQ7FyJUGuuBTgIWGLs/wIEyKxsxKARYyx+VrAIP3BVQRXxKAhXZZxXtxyDJTXQ1LARa6OibN12iSU8V4SAEWutkm2Zjo1LyqMynAgpdReJXog1D90e6yYMH7c3yKR8EfVAFf0oAF7+OwHWYYXE8XxCcmLJq5whoWfA+ZMYCeVUZ3SAIWvGFCDmPCW9e6tzARWDhuJdoJxHfClZ1JAxYJgPF+JsLXg7VxRiuB5RHlSwmLhL359eYxEjlVG6OtElgeEU2UsFhostermCV+SB1mNBVYLJjH4K/TdEqvEqmD/8UMglEmLHgfZ6/r1XDY7aM7iXvp0zLFDK9SKix4m1clfWeSgSXkmJBV6DuTDiwpPJkgn/DkCcHC8S0cAlFFuBKCJafaIjqaAIk0cG8kWAHB2Y4n9GbpsNRxlQM68qy0YNHECSasqoFlv5B2twnknS4nNVg8Oc5b/fTPOpIcLCld3EuF5J6tBFahr8MfVmMiJVU8aOPRhX+qxM6yDtzzVq58H6GpyiqB5ZHbMAiWmP+u2fzun5Bhr0pgeSRCD4S1HRiMwLbVKhRVXFjUD6AJOHHQ03r9Ohf0fK65J/+s6fBdEIPO8kNZLmPCWjJYFlnbdJrdr/pXg6fO08Pl6fg2/D+1V0xY1OSpZSrIRlxYdJYdGVRehSrJNKA7s3J8qiT9leoA5xEqZha64Gxfxyo2r1jA4n7ewqD2CgQPlTRtkkHypB0hq9gjEMsXZZJ1m8Kq53tIM3KZmEJ8+V9mul8z0fj2HisSLhq5p57fQ5rYxzM/G5awk6fP33I04hk5bepnK/+mUb74MsVzCFp8DBuii7dj00J5Ahd+DiqMWhASDg6MmihJLGmP4UCkpFRPH/WYlCl4Htr2j+XIU1wbA+IXz51lstb5I/HY1GVh2FI0TZfCEGznXuqJ36vVHnexxu0gndnp0/n5/V1b+KQ3PQ6k6hSaeLAWMreAqF+r9lr4HwFwasK/u7WWKvGFvy78zgLVQqsIf6uDererk+vLF2pFke9xtkB9WxXRSNVevVequjdZWVlZWVlZWVlZWVlZWVlZWVlx9Rs/Soh0CIsiJwAAAABJRU5ErkJggg=="/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="HolaPlay.TV" start="20230809183000 +0000" stop="20230809190000 +0000">
+		<title>HOLA PLAY</title>
+		<desc> Es la plataforma gratuita de televisión a la carta de la revista.</desc>
+		<icon src="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Televida.TV" start="20230809190000 +0000" stop="20230809195000 +0000">
+		<title>Televida</title>
+		<desc>Es un canal en el que encontrarás la Misa diaria, el Rosario, Evangelio del día.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518466"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="Canal11.TV" start="20230809195000 +0000" stop="20230809203500 +0000">
+		<title>Canal 11</title>
+		<desc>Encuentre aquí noticias sobre Costa Rica.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3091154"/>
+		<category>Informativo</category>
+	</programme>
+	<programme channel="Retromusic.TV" start="20230809203500 +0000" stop="20230809220000 +0000">
+		<title>Retromusic TV</title>
+		<desc>Los mejores videoclips de los años 60 hasta los 90 de todo el mundo.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3090050"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Musictop.TV" start="20230809220000 +0000" stop="20230809232100 +0000">
+		<title>Musictop TV</title>
+		<desc>Music Top es un canal de música que emite videoclips con la mejor selección de rock, pop, música electrónica y ritmos latinos..</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3090052"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Urban.TV" start="20230809232100 +0000" stop="20230810014500 +0000">
+		<title>Urban TV</title>
+		<desc> videoclips .</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3090054"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Music.TV" start="20230810014500 +0000" stop="20230810040000 +0000">
+		<title>Music TV</title>
+		<desc> videoclips .</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518403"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Qmusic.TV" start="20230810040000 +0000" stop="20230810043000 +0000">
+		<title>Qmusic TV</title>
+		<desc>videoclips .</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518403"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Firsmusic.TV" start="20230810043000 +0000" stop="20230810063000 +0000">
+		<title>Firsmusic TV</title>
+		<desc>videoclips.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518404"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Muzzik.TV" start="20230810063000 +0000" stop="20230810080000 +0000">
+		<title>Muzzik TV</title>
+		<desc>videoclips.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2158793"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="MRock.TV" start="20230810080000 +0000" stop="20230810093000 +0000">
+		<title>Muzzik tv rock</title>
+		<desc>videoclips.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2160843"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Mcafe.TV" start="20230810093000 +0000" stop="20230810120000 +0000">
+		<title>Muzzik Cafe</title>
+		<desc>videoclips.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2122553"/>
+		<category>Entretenimiento</category>
+	</programme>
+	<programme channel="Toplatino.TV" start="20230810120000 +0000" stop="20230810121000 +0000">
+		<title>Toplatino TV</title>
+		<desc>videoclips.</desc>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518424"/>
+		<category>Entretenimiento</category>
+	</programme>
+	
