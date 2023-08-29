@@ -5,6 +5,9 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1  tvg-id="Colombia.TV" tvg-name="señal colombia" group-title="television" television="true", tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200", señal colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalInstitucionalTV.co" tvg-logo="https://i.imgur.com/OzxNMDM.png" group-title="television" television="true",Canal Institucional Not 24/7]
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="television" television="true",Cablenoticias (1080p)
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/2312Luq.png"  group-title="television" television="true",Cali Tv Not 24/7
