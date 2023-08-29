@@ -24,6 +24,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1,tvg-id="Cartoon.TV" group-title="television" television="true",Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="Caillou.fr" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="television" television="true",Caillou
+https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="Retropalmares.TV" group-title="television" television="true",Retro Palmares tv
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8 
 #EXTINF:****canales variedad***
