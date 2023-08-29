@@ -99,15 +99,11 @@ https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1, tvg-id="Toplatino.TV" group-title="television" television="true" group-title="Musica" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=200&height=200",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-
+#EXTM3U radios alternativas
 #EXTINF:-1,tvg-logo="" group-title="radio" radio="true",Groove Salad
 http://ice1.somafm.com/groovesalad-128-mp3
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1550162501.jpg" group-title="radio" radio="true", REAL PUNK RADIO - 128 kbit/s
 http://149.56.155.73:8080/
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/zJtLviP77uKqO_KWlr2b4WHF8CpQ_XG0pF5uofDPAadUPJcQkoy55un_7qlCyikVJePjmFfL1kE=s48-c-k-c0x00ffffff-no-rj" group-title="radio" radio="true",Hits Radio 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693276555/ei/KwXtZPSdH9H6vPIP5K6O-AM/ip/2800%3A484%3A326d%3A7100%3Ad56%3Ad6a8%3A9459%3Ab17d/id/HQtFR3mhzOY.5/source/yt_live_broadcast/requiressl/yes/tx/24388773/txs/24388767%2C24388768%2C24388769%2C24388770%2C24388771%2C24388772%2C24388773/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f1-LgTQjrYoaVcmY2vyyTz8kxC65599NAkmFVgnWq6ZwiIgwLyQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C24363391/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgChdB7vGVkMxbt5EaajWW1vFz8qOMBnMLp7PWyU3lqCUCIQC5ZPfNo33lfwL4dbQkjs0TqNB6sMCbDf_2qRoXhdCkmw%3D%3D/file/index.m3u8
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/rSv0hW7eUu6aPNfa4VjyafTcenzv2tf5n1gZf-vV_XmN0b7gLgECNc4Mh6qtSZgipRVJnjQ2=s48-c-k-c0x00ffffff-no-rj" group-title="radio" radio="true",Rock And Pop 95
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693276960/ei/wAbtZIWcKZehxtYP_Ou2sAg/ip/2800%3A484%3A326d%3A7100%3Ad56%3Ad6a8%3A9459%3Ab17d/id/uiDW77fjtiQ.1/source/yt_live_broadcast/requiressl/yes/tx/24388773/txs/24388767%2C24388768%2C24388769%2C24388770%2C24388771%2C24388772%2C24388773/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fzBf96VUBcR1HaGPeHPLqCrFny86qy43mgTydkSWha23fp3MNzQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C24363391/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAM5NBL5ySxf6DLZlcUY6-Bu7uCv_yf2YckRwwiiQ2BzqAiEA1ZAJWScUfnUwW-N01gj25p8MiATccTe7UpOuVGb-BLQ%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1560873956.jpg" group-title="radio" radio="true", Guerrilla Radio - 128 kbit/s
 http://s2.stationplaylist.com:9460/guerrilla
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/okkF6eVZXyHeNC2pAAmnh1DVmD8aTPxHOj5SWA0iORbQrczFAZ0ddbw_lduuT8TCsaZGoTXhrqw=s48-c-k-c0x00ffffff-no-rj" group-title="radio" radio="true",Radio Rock Classics Mix
