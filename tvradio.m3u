@@ -129,6 +129,9 @@ https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/
 https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal1.TV" tvg-name="Canal 1" group-title="television" television="true" tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png", Canal 1 | CR
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TVSurCanal14.cr" tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="television" television="true",TV Sur Canal 14 
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+
 #EXTINF:********deportes******
 #EXTINF:-1 tvg-id="TV2Sport1.no" tvg-logo="https://i.imgur.com/asKHqNZ.png" group-title="Sports"group-title="television" television="true",TV 2 Sport 1 (720p)
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
