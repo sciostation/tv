@@ -44,6 +44,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="Caillou.fr" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="television" television="true",Caillou
 https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCurre.cr" tvg-logo="https://i.ibb.co/F4KhYjm/Cropped-logo-curre-pajaro-pz-1024x1024.png" group-title="television" television="true",TV Curre Not 24/7
+http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
+
 #EXTINF:-1,tvg-id="Retropalmares.TV" group-title="television" television="true",Retro Palmares tv
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8 
 #EXTINF:-1 tvg-id="CentralTV.fr" tvg-logo="https://i.imgur.com/2DU22BN.png" group-title="television" television="true",Central TV Not 24/7
