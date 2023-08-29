@@ -50,6 +50,22 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1,tvg-id="Fox.TV" group-title="television" television="true" tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200",FOX Live Now USA
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:****canales entrenimineto***
+#EXTINF:-1 tvg-id="13E.cl" tvg-logo="https://i.imgur.com/utI1tJV.png"  group-title="television" television="true",13 Entretencion 
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="television" television="true",13 Festival 
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="television" television="true",13 Humor 
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=""  group-title="television" television="true",13 Festival 
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=""  group-title="television" television="true",13 Humor 
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=""  group-title="television" television="true",13 Kids 
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png"  group-title="television" television="true",13Max Television 
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 tvg-id="13T.cl" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="television" television="true",13 Teleseries (720p)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="Telecanal28.TV" tvg-name="" tvg-country="DO" tvg-language="Spanish" group-title="television" television="true" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Sophia.TV" tvg-name="Sophia TV" tvg-country="ES" tvg-language="Spanish" group-title="television" television="true" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="",Sophia TV (720p)
@@ -99,6 +115,13 @@ https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1, tvg-id="Toplatino.TV" group-title="television" television="true" group-title="Musica" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=200&height=200",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+#EXTINF:********canal internacional******
+#EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="television" television="true",1+1 (1080p)
+https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+#EXTINF:-1 tvg-id="1Plus1Sport.ua" tvg-logo="https://i.imgur.com/tHVc8on.png" group-title="Sports"  group-title="television" television="true",1+1  sports
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+
 #EXTM3U radios alternativas
 #EXTINF:-1,tvg-logo="" group-title="radio" radio="true",Groove Salad
 http://ice1.somafm.com/groovesalad-128-mp3
