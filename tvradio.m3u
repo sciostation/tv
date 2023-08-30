@@ -40,6 +40,8 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="television" television="true",TV Sur Canal 9  Not 24/7
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="television" television="true"",America TeV 
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
 #EXTINF:-1,tvg-id="Cartoon.TV" group-title="television" television="true",Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
