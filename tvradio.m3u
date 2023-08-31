@@ -168,6 +168,9 @@ https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1, tvg-id="Toplatino.TV" group-title="television" television="true" group-title="Musica" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=200&height=200",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="141" group-title="television" television="true" group-title="Musica" tvg-name="Melody Channel TV" tvg-logo="https://lh3.googleusercontent.com/-fi14kFHlmlI/XzgjcIL28eI/AAAAAAAA4ZU/8aEsOJObOc8w9ghnCmLa2N_4bcmcVTLbwCK8BGAsYHg/s0/2020-08-15.jpg", Melody Channel TV | CO
+https://canal.mediaserver.com.co:8088/live/MelodyChannel.m3u8?PlaylistM3UCL
+
 #EXTINF:********canal internacional******
 #EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="television" television="true",1+1 (1080p)
 https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
