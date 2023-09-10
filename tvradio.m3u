@@ -45,7 +45,9 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1,tvg-id="Retropalmares.TV" group-title="television" television="true",Retro Palmares tv
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="" " group-title="television" television="true",Pluto TV Comedia (Made in Spain) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="SolTV.pe" tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="Undefined" group-title="television" television="true",Sol Television 
+http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" " group-title="television" television="true",Pluto TV Comedia  [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="television" television="true"",America TeV 
@@ -71,6 +73,8 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNenEspanol.us" group-title="television" television="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en EspaÃ±ol
 http://181.78.24.67:8010/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News"group-title="television" television="true",RT  
+https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="television" television="true" ,Canal 11
