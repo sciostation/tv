@@ -9,7 +9,6 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="television" television="true",RCN 
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="television" television="true",Cablenoticias (1080p)
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/yuKjGKo.png" group-title="television" television="true",Telecaribe (720p)
@@ -52,6 +51,8 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" " group-title="television" television="true",Pluto TV Comedia  [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="Telecreativa.ar" tvg-logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png" group-title="television" television="true",Telecreativa (720p)
+https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="television" television="true"",America TeV 
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
