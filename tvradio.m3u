@@ -173,7 +173,8 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education" group-title="television" television="true",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Education" group-title="television" television="true",The Bob Ross Channel Spanish
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Televida.TV" tvg-name="Canal 9 Televida" group-title="television" television="true" tvg-logo="https://i2.paste.pics/a0c27f3f882a92a4e8436a3d1eb286f9.png", Canal 9 Televida | AR
 https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal1.TV" tvg-name="Canal 1" group-title="television" television="true" tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png", Canal 1 | CR
