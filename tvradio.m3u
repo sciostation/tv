@@ -37,8 +37,6 @@ https://ythls.onrender.com/channel/UCaRuyaHshLdq462E9_pLzdA.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="television" television="true" ,Cine Sur
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:-1 tvg-id="5RTvar.TV" tvg-name="5RTv" tvg-country="AR" group-title="television" television="true" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="",5RTv (720p)
-https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="television" television="true",TV Sur Canal 9  Not 24/7
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1,tvg-id="Retropalmares.TV" group-title="television" television="true",Retro Palmares tv
@@ -140,6 +138,8 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1, tvg-id="Telemilenio.TV" group-title="television" television="true" group-title="Informativos",Telemilenio Canal 50 
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="5RTvar.TV" tvg-name="5RTv" tvg-country="AR" group-title="television" television="true" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="",5RTv (720p)
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:****canales entrenimineto***
 #EXTINF:-1 tvg-id="Dogs.TV" group-title="television" television="true" tvg-logo="http://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" tvg-url="" group-title="",Dogs 24/7
