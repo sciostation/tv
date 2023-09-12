@@ -60,9 +60,20 @@ https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 https://linear-354.frequency.stream/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/t/peliculas/MNUFu" group-title="television" television="true",De pelicula Plus
 https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F22%2FCanal_Golden_logo.svg%2F800px-Canal_Golden_logo.svg.png&tbnid=79eoiMASNn-wMM&vet=12ahUKEwi6_tfJ8KWBAxX3gIQIHeRxDE0QMygAegQIARBR..i&imgrefurl=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FGolden_(canal_de_televisi%25C3%25B3n)&docid=4XS6HQMR2daArM&w=800&h=312&q=golden%20canal%20de%20tv&ved=2ahUKEwi6_tfJ8KWBAxX3gIQIHeRxDE0QMygAegQIARBR" group-title="television" television="true",Golden
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AC9ROsOb.jpg" group-title="television" television="true",Golden
 https://linear-406.frequency.stream/406/hls/master/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AC9ROsOb.jpg" group-title="television" television="true",Golden Edge
+https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViX",Golden Multiplex -1 hora
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AC9ROsOb.jpg" group-title="television" television="true",Golden Multiplex
+https://linear-409.frequency.stream/409/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AC9ROsOb.jpg" group-title="television" television="true",Golden Plus
+https://linear-410.frequency.stream/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AC9ROsOb.jpg" group-title="television" television="true",Golden Premier
+https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AC9ROsOb.jpg" group-title="television" television="true",Las Estrellas
+https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
 #EXTINF:-1,tvg-id="Retropalmares.TV" tvg-logo="https://i.imgur.com/XEzIQ14b.jpg" group-title="television" television="true",Retro Palmares tv
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8 
 #EXTINF:-1 tvg-id="SolTV.pe" tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="Undefined" group-title="television" television="true",Sol Television 
@@ -114,7 +125,6 @@ https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.
 https://linear-254.frequency.stream/254/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gallery/i2YadSZ" group-title="television" television="true",Univision Latam
 https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="television" television="true" ,Canal 11
@@ -135,6 +145,8 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 #EXTINF:-1  tvg-id="Cgtn.TV" group-title="television" television="true",CGTN  
 http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="BoliviaTV72Deportes.bo" tvg-logo="https://comteco.com.bo/img/upload/canales/e9mHku.png" group-title="television" television="true",Bolivia TV 7.2 Deportes (720p)
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1  tvg-id="Rtpbolivia.TV" group-title="television" television="true", canal-rtp-bolivia
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
 #EXTINF:-1 tvg-id="Pinguino.TV" tvg-name="pinguino" tvg-language="Spanish" group-title="television" television="true" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" tvg-country="CL" tvg-url="" group-title="",El Pinguino TV
@@ -174,10 +186,11 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 group-title="television" television="true",Litus TV Santa 
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:****canales entrenimineto***
+#EXTINF:-1 tvg-logo=""group-title="television" television="true",Lo mas Vixto
+https://linear-446.frequency.stream/446/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dogs.TV" group-title="television" television="true" tvg-logo="http://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" tvg-url="" group-title="",Dogs 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="BoliviaTV72Deportes.bo" tvg-logo="https://comteco.com.bo/img/upload/canales/e9mHku.png" group-title="television" television="true",Bolivia TV 7.2 Deportes (720p)
-https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="13E.cl" tvg-logo="https://i.imgur.com/utI1tJV.png"  group-title="television" television="true",13 Entretencion 
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="television" television="true",13 Festival 
