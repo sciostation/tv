@@ -123,6 +123,8 @@ https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="television" television="true",TV Peru Not 24/7
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
+#EXTINF:-1 group-title="television" television="true", TN23
+https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5DiasTV.py" tvg-logo="https://i.imgur.com/AX25tmv.png" group-title="television" television="true",5DIas TVNot 24/7]
 https://ythls.onrender.com/channel/UCiyJDRTHlTOGn6Fc5_BxcJw.m3u8
 #EXTINF:-1 tvg-id="Canal10Nortevision.ar" tvg-logo="https://i.imgur.com/Uqf93Mu.png" group-title="television" television="true",Canal 10 Nortevision (576p)
@@ -184,12 +186,16 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""  group-title="television" television="true",13 Festival 
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6235cadd0b340c1e57510092/830313c05f63359c94d066194e1035c5?tr=q-80&w=750" group-title="television" television="true",Nosotros los Guapos
+https://linear-451.frequency.stream/451/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620c55b0361b2ef2e9203666/5b41ec01d91a07dc7b942f02ace880da?tr=q-80&w=750" group-title="television" television="true",La Familia P.Luche
 https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62092e4ded79ffe2abed2d2b/9537b38562ae7da1935283163ee5cdbd?tr=q-80&w=750" group-title="television" television="true",Risas de Oro
 https://linear-313.frequency.stream/313/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6209318522bbc72ac5ec12ee/ad895f26368f89f4b0a7786b97636891?tr=q-80&w=750" group-title="television" television="true",Vecinos
 https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/623696ed4fa9c22d4088a341/6c001fa87b8af3f0bee0f985c23c8f30?tr=q-80&w=750" group-title="television" television="true",Una Familia de Diez
+https://linear-450.frequency.stream/450/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""  group-title="television" television="true",13 Humor 
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Comedy"group-title="television" television="true",ViX Jajaja (1080p)
@@ -200,6 +206,8 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gallery/cA4ykRk" group-title="television" television="true" ,Unicable
 https://linear-423.frequency.stream/423/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62792bcf1aa44a0794223434/fa524bcd863336dd90769bed87cb8baf?tr=q-80&w=750" group-title="television" television="true",La Parodia
+https://linear-468.frequency.stream/468/hls/master/playlist.m3u8
 
 #EXTINF:********educativo******
 
@@ -213,10 +221,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanis
 https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal1.TV" tvg-name="Canal 1" group-title="television" television="true" tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png", Canal 1 | CR
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TeleCulturelleMedias.ca" tvg-logo="https://i.imgur.com/xabicXU.png" group-title="Culture" group-title="television" television="true",Tele Culturelle Medias (1080p)
-http-referrer=https://player.castr.com/live_79b37a4032dd11ed85c9d9bece7b557e
-#EXTINF:-1 tvg-id="Sophia.TV" tvg-name="Sophia TV" tvg-country="ES" tvg-language="Spanish" group-title="television" television="true" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="",Sophia TV (720p)
-https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
 #EXTINF:-1 tvg-id="ChacraTV.ar" tvg-logo="https://i.imgur.com/gy7AEfO.png" group-title="Outdoor",Chacra TV (480p) [Not 24/7]
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 
@@ -308,8 +312,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 #EXTINF:-1 group-title="television" television="true",Videomix:Yearmix2009
 https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
-#EXTINF:-1 group-title="television" television="true", TN23
-https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music" group-title="television" television="true",Retro Music TV (360p)
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
