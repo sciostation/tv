@@ -141,45 +141,55 @@
 	<channel id="Toplatino.TV">
 		<display-name>Toplatino.TV</display-name>
 	</channel>
+	<programme channel="5dcb62e63d4d8f0009f36881" start="20230912145800 +0000" stop="20230912173200 +0000">
+    <title>Let the Bullets Fly</title>
+    <episode-num system="original-air-date">20100101000000 +0000</episode-num>
+    <desc>En la China de la d√©cada de 1920, un bandido llega a una remota ciudad de provincia haci√©ndose pasar por su nuevo alcalde, donde se enfrenta a un tir√°nico noble local.</desc>
+    <icon src="https://images.pluto.tv/episodes/641084fa8a5b2f001398b79b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20100101</date>
+    <series-id system="pluto">641084f88a5b2f001398b77b</series-id>
+    <category>Movie</category>
+    <category>Action Comedies</category>
+    <category>Action</category>
 	<programme channel="Caracol.TV" start="20230808040000 +0000" stop="20230808065000 +0000">
 		<title>Caracol Ahora</title>
-		<desc>Estas son las emisiones de Noticias Caracol que se emiten a diario en pantalla. Primera EmisiÛn, EmisiÛn mediodÌa, EmisiÛn central y ˙ltima emisiÛn..</desc>
+		<desc>Estas son las emisiones de Noticias Caracol que se emiten a diario en pantalla. Primera Emisi√≥n, Emisi√≥n mediod√≠a, Emisi√≥n central y √∫ltima emisi√≥n..</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518403"/>
 		<category>Informativo</category>
 	</programme>
 	<programme channel="Colombia.TV" start="20230808065000 +0000" stop="20230808081000 +0000">
-		<title>SeÒal Colombia</title>
-		<desc>Descubre la mejor experiencia de la TV: series, pelÌculas, documentales, programas infantiles, especiales culturales y deportivos. .</desc>
+		<title>Se√±al Colombia</title>
+		<desc>Descubre la mejor experiencia de la TV: series, pel√≠culas, documentales, programas infantiles, especiales culturales y deportivos. .</desc>
 		<icon src="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200"/>
 		<category>Entretenimiento</category>
 	</programme>
 	<programme channel="Colombia.TV" start="20230808081000 +0000" stop="20230808093000 +0000">
-		<title>Franja SeÒal Colombia Deportes</title>
-		<desc>Las tardes del fin de semana est·n llenas de emociÛn deportiva en la pantalla de SeÒal Colombia, con transmisiones de importantes eventos.</desc>
+		<title>Franja Se√±al Colombia Deportes</title>
+		<desc>Las tardes del fin de semana est√°n llenas de emoci√≥n deportiva en la pantalla de Se√±al Colombia, con transmisiones de importantes eventos.</desc>
 		<icon src="https://s3.amazonaws.com/rtvc-assets-parrilla.rtvc.gov.co/s3fs-public/Captura.JPG"/>
 		<category>Entretenimiento</category>
 	</programme>
 	<programme channel="Dorada.TV" start="20230808093000 +0000" stop="20230808120000 +0000">
-		<title>Canal VisiÛn Dorada ñ Canal Regional</title>
-		<desc> canal regional Cumplimos 27 AÒos Al Aire pelÌculas, documentales, programas infantiles.</desc>
+		<title>Canal Visi√≥n Dorada ‚Äì Canal Regional</title>
+		<desc> canal regional Cumplimos 27 A√±os Al Aire pel√≠culas, documentales, programas infantiles.</desc>
 		<icon src="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg"/>
 		<category>Entretenimiento</category>
 	</programme>
 	<programme channel="Colosal.TV" start="20230808120000 +0000" stop="20230808121000 +0000">
 		<title>Colosal tv </title>
-		<desc>Canal Regional  pelÌculas, documentales, programas infantiles.</desc>
+		<desc>Canal Regional  pel√≠culas, documentales, programas infantiles.</desc>
 		<icon src="https://www.colosalstereo.com/IMG/BotonRadio.png">
 		<category>Entretenimiento</category>
 	</programme>
 	<programme channel="Cinear.TV" start="20230808121000 +0000" stop="20230808130000 +0000">
 		<title>Cine Art</title>
-		<desc>Es el canal de televisiÛn del cine argentino. PelÌculas, cortometrajes, documentales, noticias y todo lo que querÈs saber sobre el cine nacional.</desc>
+		<desc>Es el canal de televisi√≥n del cine argentino. Pel√≠culas, cortometrajes, documentales, noticias y todo lo que quer√©s saber sobre el cine nacional.</desc>
 		<icon src="https://www.m3u.cl/logo/208_CINE_AR.png"/>
 		<category>Entretenimiento</category>
 	</programme>
 	<programme channel="Dan.TV" start="20230808130000 +0000" stop="20230808135000 +0000">
 		<title>Dan.TV</title>
-		<desc>Canal Regional  pelÌculas, documentales, programas infantiles.</desc>
+		<desc>Canal Regional  pel√≠culas, documentales, programas infantiles.</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518438"/>
 		<category>Entretenimiento</category>
 	</programme>
@@ -197,79 +207,79 @@
 	</programme>
 	<programme channel=""Wow.TV" start="20230808142500 +0000" stop="20230808153000 +0000">
 		<title>WOW TV EL SALVADOR</title>
-		<desc>Canal Regional  pelÌculas, documentales, programas infantiles.</desc>
+		<desc>Canal Regional  pel√≠culas, documentales, programas infantiles.</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3090042"/>
 		<category>Entretenimiento</category>
 	</programme>
 	<programme channel="5RTvar.TV" start="20230808153000 +0000" stop="20230808162500 +0000">
 		<title>Santa Fe Canal</title>
-		<desc>conocido anteriormente como 5RTV, es un canal de televisiÛn abierta argentino que transmite desde la ciudad de Recreo. El canal se llega a ver en parte de la Provincia de Santa Fe y zonas aledaÒas. Es operado por el Gobierno de Santa Fe a travÈs de la empresa p˙blica Radio y TelevisiÛn Santafesina Sociedad del Estado.</desc>
+		<desc>conocido anteriormente como 5RTV, es un canal de televisi√≥n abierta argentino que transmite desde la ciudad de Recreo. El canal se llega a ver en parte de la Provincia de Santa Fe y zonas aleda√±as. Es operado por el Gobierno de Santa Fe a trav√©s de la empresa p√∫blica Radio y Televisi√≥n Santafesina Sociedad del Estado.</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1070472"/>
 		<category>Series</category>
 	</programme>
 	<programme channel="Cartoon.TV" start="20230808162500 +0000" stop="20230808172500 +0000">
 		<title>Cartoon Network </title>
-		<desc>Canal de Dibujos Animados en espaÒol su programaciÛn en los gÈneros de acciÛn y comedia, y comparte horario de programaciÛn con el canal Adult Swim desde las 7:00 p.m. hasta las 6:00 a. m. es propiedad de The Cartoon Network Inc, subsidiaria de Warner Bros.</desc>
+		<desc>Canal de Dibujos Animados en espa√±ol su programaci√≥n en los g√©neros de acci√≥n y comedia, y comparte horario de programaci√≥n con el canal Adult Swim desde las 7:00 p.m. hasta las 6:00 a. m. es propiedad de The Cartoon Network Inc, subsidiaria de Warner Bros.</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2180370"/>
 		<category>Entretenimiento</category>
 	</programme>
 	<programme channel="Retropalmares.TV" start="20230808172500 +0000" stop="20230808183000 +0000">
 		<title>TV Retro Palmares</title>
-		<desc>Miramos en los programas de las dÈcadas pasadas una forma m·s sana de entretenimiento.pelÌculas, series, m˙sica y animados, llamados corte cl·sicos y que son muy difÌciles de observar en la televisiÛn abierta.</desc>
+		<desc>Miramos en los programas de las d√©cadas pasadas una forma m√°s sana de entretenimiento.pel√≠culas, series, m√∫sica y animados, llamados corte cl√°sicos y que son muy dif√≠ciles de observar en la televisi√≥n abierta.</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2135465"/>
 		<category>Entretenimiento</category>
 	</programme>
 	<programme channel="Dogs.TV" start="20230808183000 +0000" stop="20230808190000 +0000">
 		<title>Dogs tv</title>
-		<desc>No somos solo TV, sino el primer canal creado para traer m˙sica y videos relajantes para perros, creados especÌficamente para una audiencia canina..</desc>
+		<desc>No somos solo TV, sino el primer canal creado para traer m√∫sica y videos relajantes para perros, creados espec√≠ficamente para una audiencia canina..</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2191704"/>
 		<category>Informativo</category>
 	</programme>
 	<programme channel="Euronews.TV" start="20230808190000 +0000" stop="20230808195000 +0000">
 		<title>Euronews</title>
-		<desc>Euronews es un canal de televisiÛn tem·tico dedicado a la informaciÛn.</desc>
+		<desc>Euronews es un canal de televisi√≥n tem√°tico dedicado a la informaci√≥n.</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518466"/>
 		<category>Informativo</category>
 	</programme>
 	<programme channel="Pais.TV" start="20230808195000 +0000" stop="20230808203500 +0000">
-		<title>TelevisiÛn en EL PAÕS</title>
-		<desc>Toda la actualidad de la televisiÛn: famosos, programas, series tv y toda la programaciÛn con EL PAÕS..</desc>
+		<title>Televisi√≥n en EL PA√çS</title>
+		<desc>Toda la actualidad de la televisi√≥n: famosos, programas, series tv y toda la programaci√≥n con EL PA√çS..</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3091152"/>
 		<category>Informativo</category>
 	</programme>
 	<programme channel="BHTV.TV" start="20230808203500 +0000" stop="20230808214500 +0000">
 		<title>BHtv</title>
-		<desc>Brindar entretenimiento e informaciÛn de calidad. Satisfacer las necesidades de nuestros televidentes.</desc>
+		<desc>Brindar entretenimiento e informaci√≥n de calidad. Satisfacer las necesidades de nuestros televidentes.</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3090044"/>
 		<category>Entretenimiento</category>
 	</programme>
 	<programme channel="Bailen.TV" start="20230808214500 +0000" stop="20230808233500 +0000">
 		<title>Bailen</title>
-		<desc>Canal Regional  pelÌculas, documentales, programas infantiles.</desc>
+		<desc>Canal Regional  pel√≠culas, documentales, programas infantiles.</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3090046"/>
 		<category>Entretenimiento</category>
 	</programme>
 	<programme channel="Cgtn.TV" start="20230808233500 +0000" stop="20230809003500 +0000">
 		<title>Cgtn</title>
-		<desc>La Cadena Global de TelevisiÛn de China. Su objetivo es proporcionar una cobertura noticiosa precisa y oportuna a audiencias globales, asÌ como una gran variedad de servicios audiovisuales, promoviendo la comunicaciÛn y el entendimiento entre China y el mundo</desc>
+		<desc>La Cadena Global de Televisi√≥n de China. Su objetivo es proporcionar una cobertura noticiosa precisa y oportuna a audiencias globales, as√≠ como una gran variedad de servicios audiovisuales, promoviendo la comunicaci√≥n y el entendimiento entre China y el mundo</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1948679"/>
 		<category>Entretenimiento</category>
 	</programme>
 	<programme channel="Rtpbolivia.TV" start="20230809003500 +0000" stop="20230809021000 +0000">
 		<title>RTP Informa</title>
-		<desc>Somos un Sistema de ComunicaciÛn Popular comprometido con el bienestar de la comunidad,.</desc>
+		<desc>Somos un Sistema de Comunicaci√≥n Popular comprometido con el bienestar de la comunidad,.</desc>
 		<icon src="https://rtpbolivia.com.bo/wp-content/uploads/elementor/thumbs/Logo800-q7ydinf88s6s2skjnyjd1vt91n6zi980xvt55ezhae.png"/>
 		<category>Informativo</category>
 	</programme>
 	<programme channel="Pinguino.TV" start="20230809021000 +0000" stop="20230809040000 +0000">
 		<title>Pinguino</title>
-		<desc> Somos Ping¸ino Multimedia, la plataforma comunicacional m·s grande de la zona austral de Chile y Argentina.</desc>
+		<desc> Somos Ping√ºino Multimedia, la plataforma comunicacional m√°s grande de la zona austral de Chile y Argentina.</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518403"/>
 		<category>Informativo</category>
 	</programme>
 	<programme channel="Canal6.TV" start="20230809040000 +0000" stop="20230809043000 +0000">
 		<title>Noticias 24H</title>
-		<desc>Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisi√≥n Espa√±ola, este canal est√° dedicado √≠ntegramente a ofrecer informaci√≥n de actualidad y es el m√°s antiguo de los canales de este tipo en Espa√±a.</desc>
+		<desc>Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisi√É¬≥n Espa√É¬±ola, este canal est√É¬° dedicado √É¬≠ntegramente a ofrecer informaci√É¬≥n de actualidad y es el m√É¬°s antiguo de los canales de este tipo en Espa√É¬±a.</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518403"/>
 		<category>Informativo</category>
 	</programme>
@@ -287,13 +297,13 @@
 	</programme>
 	<programme channel="Telecanal28.TV" start="20230809072000 +0000" stop="20230809093000 +0000">
 		<title>Telecanal 28</title>
-		<desc>Canal Regional  pelÌculas, documentales, programas infantiles.</desc>
+		<desc>Canal Regional  pel√≠culas, documentales, programas infantiles.</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2160843"/>
 		<category>Entretenimiento</category>
 	</programme>
 	<programme channel="La1.TV" start="20230809093000 +0000" stop="20230809120000 +0000">
 		<title>Hablando claro</title>
-		<desc>Magac√≠n diario que contar√° el minuto a minuto de todo lo que ocurra durante la franja horaria en la que se emite. La actualidad y las conexiones en directo ser√°n sus principales argumentos. Un amplio equipo de reporteros se encargar√° de tomar el pulso a las noticias.</desc>
+		<desc>Magac√É¬≠n diario que contar√É¬° el minuto a minuto de todo lo que ocurra durante la franja horaria en la que se emite. La actualidad y las conexiones en directo ser√É¬°n sus principales argumentos. Un amplio equipo de reporteros se encargar√É¬° de tomar el pulso a las noticias.</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2122553"/>
 		<category>Entretenimiento</category>
 	</programme>
@@ -305,7 +315,7 @@
 	</programme>
 	<programme channel="LatinoKids.TV" start="20230809121000 +0000" stop="20230809130000 +0000">
 		<title>Latino Kids TV </title>
-		<desc>Latino Kids TV Uruguay, es una idea y proyecto para entretener a los mas chicos de la casa y a los no tan chicos tambiÈn, con programaciÛn variada..</desc>
+		<desc>Latino Kids TV Uruguay, es una idea y proyecto para entretener a los mas chicos de la casa y a los no tan chicos tambi√©n, con programaci√≥n variada..</desc>
 		<icon src="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png"/>
 		<category>Entretenimiento</category>
 	</programme>
@@ -317,37 +327,37 @@
 	</programme>
 	<programme channel="DMax.TV" start="20230809134500 +0000" stop="20230809135000 +0000">
 		<title>13 Max Television</title>
-		<desc>Rio Paran· Tv Canal 13 de Corrientes,Somos el Canal de TelevisiÛn Abierta de la Ciudad de Corrientes, el medio de comunicaciÛn m·s importante de la regiÛn, con un alto porcentaje de penetraciÛn en toda la sociedad, sin restricciones econÛmicas ni sociales y de acceso gratuito..</desc>
+		<desc>Rio Paran√° Tv Canal 13 de Corrientes,Somos el Canal de Televisi√≥n Abierta de la Ciudad de Corrientes, el medio de comunicaci√≥n m√°s importante de la regi√≥n, con un alto porcentaje de penetraci√≥n en toda la sociedad, sin restricciones econ√≥micas ni sociales y de acceso gratuito..</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3084561"/>
 		<category>Informativo</category>
 	</programme>
 	<programme channel="Santafe.TV" start="20230809135000 +0000" stop="20230809141500 +0000">
 		<title>Santafe TV</title>
-		<desc> Canal Regional TelevisiÛn Santafesina es una empresa del Estado.</desc>
+		<desc> Canal Regional Televisi√≥n Santafesina es una empresa del Estado.</desc>
 		<icon src="https://i2.paste.pics/2154f26cfec10ed6642020dad09849b3.png"/>
 		<category>Informativo</category>
 	</programme>
 	<programme channel="5.TV" start="20230809141500 +0000" stop="20230809143000 +0000">
 		<title>5TV  AR</title>
-		<desc>Somos primeros en informaciÛn y contenidos. InnovaciÛn constante al servicio de la comunicaciÛn..</desc>
+		<desc>Somos primeros en informaci√≥n y contenidos. Innovaci√≥n constante al servicio de la comunicaci√≥n..</desc>
 		<icon src="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png"/>
 		<category>Informativo</category>
 	</programme>
 	<programme channel="Tucuman.TV" start="20230809143000 +0000" stop="20230809153000 +0000">
 		<title>Tucuman.TV</title>
-		<desc>es un canal de televisiÛn abierta argentino afiliado a Telefe , parte de la programaciÛn del canal consiste en retransmitir parte de los contenidos del Canal 11 de Buenos Aires .</desc>
+		<desc>es un canal de televisi√≥n abierta argentino afiliado a Telefe , parte de la programaci√≥n del canal consiste en retransmitir parte de los contenidos del Canal 11 de Buenos Aires .</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3090048"/>
 		<category>Informativo</category>
 	</programme>
 	<programme channel="Canal26.TV" start="20230809153000 +0000" stop="20230809162000 +0000">
-		<title>Todas las noticias de dÌa en nuestro canal en vivo</title>
+		<title>Todas las noticias de d√≠a en nuestro canal en vivo</title>
 		<desc>Noticias de Argentina y el Mundo.</desc>
 		<icon src="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png"/>
 		<category>Informativo</category>
 	</programme>
 	<programme channel="Adn40.TV" start="20230809162000 +0000" stop="20230809172000 +0000">
 		<title>Adn40 TV</title>
-		<desc>Noticias en vivo de hoy en MÈxico y el mundo por ADN 40.</desc>
+		<desc>Noticias en vivo de hoy en M√©xico y el mundo por ADN 40.</desc>
 		<icon src="https://graph.facebook.com/ADN40mx/picture?width=200&height=200"/>
 		<category>Informativo</category>
 	</programme>
@@ -359,31 +369,31 @@
 	</programme>
 	<programme channel="HolaPlay.TV" start="20230809183000 +0000" stop="20230809190000 +0000">
 		<title>HOLA PLAY</title>
-		<desc> Es la plataforma gratuita de televisiÛn a la carta de la revista.</desc>
+		<desc> Es la plataforma gratuita de televisi√≥n a la carta de la revista.</desc>
 		<icon src="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200"/>
 		<category>Entretenimiento</category>
 	</programme>
 	<programme channel="Televida.TV" start="20230809190000 +0000" stop="20230809195000 +0000">
 		<title>Televida</title>
-		<desc>Es un canal en el que encontrar·s la Misa diaria, el Rosario, Evangelio del dÌa.</desc>
+		<desc>Es un canal en el que encontrar√°s la Misa diaria, el Rosario, Evangelio del d√≠a.</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518466"/>
 		<category>Informativo</category>
 	</programme>
 	<programme channel="Canal11.TV" start="20230809195000 +0000" stop="20230809203500 +0000">
 		<title>Canal 11</title>
-		<desc>Encuentre aquÌ noticias sobre Costa Rica.</desc>
+		<desc>Encuentre aqu√≠ noticias sobre Costa Rica.</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3091154"/>
 		<category>Informativo</category>
 	</programme>
 	<programme channel="Retromusic.TV" start="20230809203500 +0000" stop="20230809220000 +0000">
 		<title>Retromusic TV</title>
-		<desc>Los mejores videoclips de los aÒos 60 hasta los 90 de todo el mundo.</desc>
+		<desc>Los mejores videoclips de los a√±os 60 hasta los 90 de todo el mundo.</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3090050"/>
 		<category>Entretenimiento</category>
 	</programme>
 	<programme channel="Musictop.TV" start="20230809220000 +0000" stop="20230809232100 +0000">
 		<title>Musictop TV</title>
-		<desc>Music Top es un canal de m˙sica que emite videoclips con la mejor selecciÛn de rock, pop, m˙sica electrÛnica y ritmos latinos..</desc>
+		<desc>Music Top es un canal de m√∫sica que emite videoclips con la mejor selecci√≥n de rock, pop, m√∫sica electr√≥nica y ritmos latinos..</desc>
 		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3090052"/>
 		<category>Entretenimiento</category>
 	</programme>
