@@ -112,6 +112,9 @@ http://181.78.24.67:8010/play/a03p/index.m3u8
 https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f83680771641ece747bada/2be1ed9ee95b850da79c61a42e426d3d?tr=q-80&w=750" group-title="television" television="true",Noticias Univision 24/7
 https://linear-254.frequency.stream/254/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gallery/i2YadSZ" group-title="television" television="true",Univision Latam
+https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="television" television="true" ,Canal 11
@@ -249,7 +252,16 @@ http://inliveserver.com:1935/14510/14510/playlist.m3u8
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="television" television="true",Adrenalina Sport
 https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://imgur.com/gallery/xg6QD98" group-title="television" television="true",TUDN
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gallery/xg6QD98" group-title="television" television="true",TUDN 2
+https://linear-441.frequency.stream/441/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gallery/xg6QD98" group-title="television" television="true",TUDN 3
+https://linear-442.frequency.stream/442/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gallery/xg6QD98" group-title="television" television="true",TUDN 4
+https://linear-489.frequency.stream/489/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gallery/xg6QD98" group-title="television" television="true",TUDN 5
+https://linear-490.frequency.stream/490/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPeleas.us" tvg-logo="https://i.imgur.com/PWoudOz.png" group-title="television" television="true",Pluto TV Peleas 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="Sports" group-title="television" television="true",Sport En France 
