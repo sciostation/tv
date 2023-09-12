@@ -97,10 +97,12 @@ https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Euronews.TV" group-title="television" television="true" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="Informativos" tvg-name="Euronews",Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNenEspanol.us" group-title="television" television="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en EspaÃ±ol
+#EXTINF:-1 tvg-id="CNNenEspanol.us" group-title="television" television="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN 
 http://181.78.24.67:8010/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News"group-title="television" television="true",RT  
 https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f83680771641ece747bada/2be1ed9ee95b850da79c61a42e426d3d?tr=q-80&w=750" group-title="television" television="true",Noticias Univision 24/7
+https://linear-254.frequency.stream/254/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="television" television="true" ,Canal 11
@@ -170,6 +172,12 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""  group-title="television" television="true",13 Festival 
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620c55b0361b2ef2e9203666/5b41ec01d91a07dc7b942f02ace880da?tr=q-80&w=750" group-title="television" television="true",La Familia P.Luche
+https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62092e4ded79ffe2abed2d2b/9537b38562ae7da1935283163ee5cdbd?tr=q-80&w=750" group-title="television" television="true",Risas de Oro
+https://linear-313.frequency.stream/313/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6209318522bbc72ac5ec12ee/ad895f26368f89f4b0a7786b97636891?tr=q-80&w=750" group-title="television" television="true",Vecinos
+https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""  group-title="television" television="true",13 Humor 
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Comedy"group-title="television" television="true",ViX Jajaja (1080p)
@@ -214,7 +222,8 @@ https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="Sports" group-title="television" television="true",TNT Sports 5 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b520dadf627aa84bbf2500/67ccdc39989cef73134b31df1eb03c0f?tr=q-80&w=750" group-title="television" television="true",Lo Mejor de la Liga MX USA
+https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2Sport1.no" tvg-logo="https://i.imgur.com/asKHqNZ.png" group-title="Sports" group-title="television" television="true",TV 2 Sport 1 (720p)
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports" group-title="television" television="true",TRACE Sport Stars
