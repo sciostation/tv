@@ -20,6 +20,9 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3Ye
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2.co" tvg-logo="https://i.imgur.com/BCrsZTQ.png" group-title="television" television="true",Canal 2 Cali 
 https://video13.virtualtronics.com/streamer/canal2.m3u8
+#EXTINF:-1 tvg-id="1157" tvg-name="Veo TV" group-title="television" television="true" tvg-logo="https://i2.paste.pics/10c25d2283903f2f06871459f16b8391.png", Veo TV | CO
+https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
+
 #EXTINF:********canal cine******
 #EXTINF:-1 tvg-id="Dorada.TV" tvg-name="Canal Vision Dorada" group-title="television" television="true" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal Vision Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
@@ -89,6 +92,9 @@ https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
 https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" tvg-chno="259" group-title="Retro" group-title="television" television="true", Los Tres Chiflados
 https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
+#EXTINF:-1 tvg-id="1279" group-title="television" television="true" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Chiquilines - Freetv.com | US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
+
 
 
 
@@ -125,6 +131,11 @@ https://i.mjh.nz/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
 https://i.mjh.nz/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
 #EXTINF:-1 tvg-id="1081" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="television" television="true", AnimeStation | AR
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="206" tvg-name="Paka Paka"group-title="television" television="true" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1335" tvg-name="VariedTV"  group-title="television" television="true" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV | AR
+https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
+
 
 
 
