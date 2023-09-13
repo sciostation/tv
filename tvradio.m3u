@@ -146,8 +146,10 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?Playlis
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1421" group-title="television" television="true" tvg-logo="https://i2.paste.pics/fe14daf029d32fcab7f6305dc2e7a86e.png", 13 Kids | CL
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
-
-
+#EXTINF:-1 channel-id="pluto-5ddd7c348520b40009c347e2" tvg-id="5ddd7c348520b40009c347e2" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" tvg-chno="1440" group-title="television" television="true" , Nickelodeon 
+https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5ea7215005d66d0007e8128a" tvg-id="5ea7215005d66d0007e8128a" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" tvg-chno="1445" group-title="television" television="true" , Rugrats
+https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
 
 
 
