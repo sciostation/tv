@@ -10,8 +10,7 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="television" television="true",RCN 
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="television" television="true",RCTV Novelas
-https://linear-334.frequency.stream/334/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="television" television="true",Cablenoticias (1080p)
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/yuKjGKo.png" group-title="television" television="true",Telecaribe (720p)
@@ -54,26 +53,6 @@ https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
 https://i.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62c5d80dc6de440007e033eb" tvg-id="62c5d80dc6de440007e033eb" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" tvg-chno="57" group-title="PelÃ­culas" , Runtime
 https://i.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
-#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="television" television="true",Cine Club
-https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/t/peliculas/7znZhti" group-title="television" television="true",De pelicula
-https://linear-354.frequency.stream/354/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/t/peliculas/MNUFu" group-title="television" television="true",De pelicula Plus
-https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AC9ROsOb.jpg" group-title="television" television="true",Golden
-https://linear-406.frequency.stream/406/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AC9ROsOb.jpg" group-title="television" television="true",Golden Edge
-https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ViX",Golden Multiplex -1 hora
-https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AC9ROsOb.jpg" group-title="television" television="true",Golden Multiplex
-https://linear-409.frequency.stream/409/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AC9ROsOb.jpg" group-title="television" television="true",Golden Plus
-https://linear-410.frequency.stream/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AC9ROsOb.jpg" group-title="television" television="true",Golden Premier
-https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AC9ROsOb.jpg" group-title="television" television="true",Las Estrellas
-https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
 #EXTINF:-1,tvg-id="Retropalmares.TV" tvg-logo="https://i.imgur.com/XEzIQ14b.jpg" group-title="television" television="true",Retro Palmares tv
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8 
 #EXTINF:-1 tvg-id="SolTV.pe" tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="Undefined" group-title="television" television="true",Sol Television 
@@ -121,21 +100,15 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 http://181.78.24.67:8010/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News"group-title="television" television="true",RT  
 https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f83680771641ece747bada/2be1ed9ee95b850da79c61a42e426d3d?tr=q-80&w=750" group-title="television" television="true",Noticias Univision 24/7
-https://linear-254.frequency.stream/254/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gallery/i2YadSZ" group-title="television" television="true",Univision Latam
-https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="television" television="true" ,Canal 11
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1  tvg-id="Pais.TV" group-title="television" television="true" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="Informativos" tvg-name="El Pai­s",El Pai­s
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:-1 tvg-logo="" group-title="television" television="true",The Weather Channel 
-https://linear-453.frequency.stream/453/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="television" television="true",TV Peru Not 24/7
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
-#EXTINF:-1 group-title="television" television="true", TN23
+#EXTINF:-1 group-title="television" television="true" tvg-logo="https://imgur.com/gallery/i2YadSZ", TN23
 https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5DiasTV.py" tvg-logo="https://i.imgur.com/AX25tmv.png" group-title="television" television="true",5DIas TVNot 24/7]
 https://ythls.onrender.com/channel/UCiyJDRTHlTOGn6Fc5_BxcJw.m3u8
@@ -145,11 +118,11 @@ https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Bailen.TV" tvg-logo="https://graph.facebook.com/BailenTv/picture?width=200&height=200" group-title="television" television="true",Bailen TV
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
-#EXTINF:-1  tvg-id="Cgtn.TV" group-title="television" television="true",CGTN  
+#EXTINF:-1  tvg-id="Cgtn.TV" group-title="television" television="true" tvg-logo="https://imgur.com/gallery/i2YadSZ",CGTN  
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="BoliviaTV72Deportes.bo" tvg-logo="https://comteco.com.bo/img/upload/canales/e9mHku.png" group-title="television" television="true",Bolivia TV 7.2 Deportes (720p)
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
-#EXTINF:-1  tvg-id="Rtpbolivia.TV" group-title="television" television="true", canal-rtp-bolivia
+#EXTINF:-1  tvg-id="Rtpbolivia.TV" group-title="television" television="true"tvg-logo="https://imgur.com/gallery/i2YadSZ", canal-rtp-bolivia
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
 #EXTINF:-1 tvg-id="Pinguino.TV" tvg-name="pinguino" tvg-language="Spanish" group-title="television" television="true" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" tvg-country="CL" tvg-url="" group-title="",El Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
@@ -185,11 +158,10 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="5RTvar.TV" tvg-name="5RTv" tvg-country="AR" group-title="television" television="true" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="",5RTv (720p)
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1 group-title="television" television="true",Litus TV Santa 
+#EXTINF:-1 group-title="television" television="true" tvg-logo="https://imgur.com/gallery/i2YadSZ",Litus TV Santa 
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:****canales entrenimineto***
-#EXTINF:-1 tvg-logo=""group-title="television" television="true",Lo mas Vixto
-https://linear-446.frequency.stream/446/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Dogs.TV" group-title="television" television="true" tvg-logo="http://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" tvg-url="" group-title="",Dogs 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -201,16 +173,6 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""  group-title="television" television="true",13 Festival 
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6235cadd0b340c1e57510092/830313c05f63359c94d066194e1035c5?tr=q-80&w=750" group-title="television" television="true",Nosotros los Guapos
-https://linear-451.frequency.stream/451/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620c55b0361b2ef2e9203666/5b41ec01d91a07dc7b942f02ace880da?tr=q-80&w=750" group-title="television" television="true",La Familia P.Luche
-https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62092e4ded79ffe2abed2d2b/9537b38562ae7da1935283163ee5cdbd?tr=q-80&w=750" group-title="television" television="true",Risas de Oro
-https://linear-313.frequency.stream/313/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6209318522bbc72ac5ec12ee/ad895f26368f89f4b0a7786b97636891?tr=q-80&w=750" group-title="television" television="true",Vecinos
-https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/623696ed4fa9c22d4088a341/6c001fa87b8af3f0bee0f985c23c8f30?tr=q-80&w=750" group-title="television" television="true",Una Familia de Diez
-https://linear-450.frequency.stream/450/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""  group-title="television" television="true",13 Humor 
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Comedy"group-title="television" television="true",ViX Jajaja (1080p)
@@ -219,10 +181,7 @@ https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="13T.cl" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="television" television="true",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gallery/cA4ykRk" group-title="television" television="true" ,Unicable
-https://linear-423.frequency.stream/423/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62792bcf1aa44a0794223434/fa524bcd863336dd90769bed87cb8baf?tr=q-80&w=750" group-title="television" television="true",La Parodia
-https://linear-468.frequency.stream/468/hls/master/playlist.m3u8
+
 
 #EXTINF:********educativo******
 
@@ -256,8 +215,7 @@ https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="Sports" group-title="television" television="true",TNT Sports 5 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b520dadf627aa84bbf2500/67ccdc39989cef73134b31df1eb03c0f?tr=q-80&w=750" group-title="television" television="true",Lo Mejor de la Liga MX USA
-https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TV2Sport1.no" tvg-logo="https://i.imgur.com/asKHqNZ.png" group-title="Sports" group-title="television" television="true",TV 2 Sport 1 (720p)
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports" group-title="television" television="true",TRACE Sport Stars
@@ -273,16 +231,6 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playli
 https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gallery/xg6QD98" group-title="television" television="true",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gallery/xg6QD98" group-title="television" television="true",TUDN 2
-https://linear-441.frequency.stream/441/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gallery/xg6QD98" group-title="television" television="true",TUDN 3
-https://linear-442.frequency.stream/442/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gallery/xg6QD98" group-title="television" television="true",TUDN 4
-https://linear-489.frequency.stream/489/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gallery/xg6QD98" group-title="television" television="true",TUDN 5
-https://linear-490.frequency.stream/490/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVPeleas.us" tvg-logo="https://i.imgur.com/PWoudOz.png" group-title="television" television="true",Pluto TV Peleas 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="Sports" group-title="television" television="true",Sport En France 
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-logo="https://i.imgur.com/EyCDhgN.png" group-title="Sports" group-title="television" television="true",Sports TV Plus (1080p)
@@ -406,7 +354,7 @@ http://79.111.14.76:9035
 http://s01.toksyna.fm:8070/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="radio" radio="true", Mainstream Dominator - The Neurofunk Powerstation - 192 kbit/s
 http://media.brokenpla.net:8000/live
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="PUNK Radio - radio.pervii.com", Radio Caprice - Post-Punk - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg"  group-title="radio" radio="true", Radio Caprice - Post-Punk - 192 kbit/s
 http://79.120.39.202:9071
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551052627.jpg" group-title="radio" radio="true", Radio Caprice - Russian Punk - 192 kbit/s
 http://79.120.77.11:9045
