@@ -423,6 +423,15 @@ http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 
 #EXTM3U radios alternativas
+#EXTINF:-1 group-title="radio" radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:-1 group-title="radio" radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="COPE",COPE
+https://flucast24-h-cloud.flumotion.com/cope/net1.mp3
+#EXTINF:-1 group-title="radio" radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="COPE",COPE
+https://flucast-b04-04.flumotion.com/cope/net2.mp3
+
+
+
 #EXTINF:-1,tvg-logo="" group-title="radio" radio="true",Groove Salad
 http://ice1.somafm.com/groovesalad-128-mp3
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1550162501.jpg" group-title="radio" radio="true", REAL PUNK RADIO - 128 kbit/s
