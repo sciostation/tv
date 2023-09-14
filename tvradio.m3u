@@ -425,6 +425,8 @@ http://210.210.155.37/dr9445/h/h15/index.m3u8
 #EXTM3U radios alternativas
 #EXTINF:-1 group-title="radio" radio="true" tvg-logo="",chapeton radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/CR_BARRANQ.mp3
+#EXTINF:-1 group-title="radio" radio="true" tvg-logo="",natio station
+http://stream.zeno.fm/mfny1d4okmjuv
 #EXTINF:-1 group-title="radio" radio="true" tvg-logo="",acuario yo soy el pez grande del 
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACUARIO.mp3
 #EXTINF:-1 group-title="radio" radio="true" tvg-logo="",besame el culo siervo
@@ -441,6 +443,8 @@ https://flucast24-h-cloud.flumotion.com/cope/net1.mp3
 https://flucast-b04-04.flumotion.com/cope/net2.mp3
 #EXTINF:-1 group-title="radio" radio="true" tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-name="Radio Nacional",Radio Nacional
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r1_main.m3u8
+#EXTINF:-1 group-title="radio" radio="true" tvg-logo="",saxum station
+http://stream.zeno.fm/x4cuyhegckyvv
 #EXTINF:-1 group-title="radio" radio="true" tvg-logo="",radio activa paraco 
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVAAAC.aac?dist=onlineradiobox" streamType="mp3
 #EXTINF:-1,tvg-logo="" group-title="radio" radio="true",Groove Salad
