@@ -42,27 +42,27 @@ https://ythls.onrender.com/channel/UCaRuyaHshLdq462E9_pLzdA.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="television" television="true" ,Cine Sur
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" tvg-chno="18" group-title="PelÃ­culas" group-title="television" television="true" , Pluto TV Cine Estelar
+#EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" tvg-chno="18"  group-title="television" television="true" , Pluto TV Cine Estelar
 https://i.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" tvg-chno="21" group-title="PelÃ­culas" group-title="television" television="true" , Pluto TV Cine Accion
+#EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" tvg-chno="21"  group-title="television" television="true" , Pluto TV Cine Accion
 https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="television" television="true",TV Sur Canal 9  Not 24/7
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-#EXTINF:-1 channel-id="pluto-5e972a21ad709d00074195ba" tvg-id="5e972a21ad709d00074195ba" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" tvg-chno="24" group-title="PelÃ­culas" group-title="television" television="true" , Estrellas de Accion
+#EXTINF:-1 channel-id="pluto-5e972a21ad709d00074195ba" tvg-id="5e972a21ad709d00074195ba" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" tvg-chno="24" group-title="television" television="true" , Estrellas de Accion
 https://i.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" tvg-chno="33" group-title="PelÃ­culas" group-title="television" television="true", Pluto TV Cine Comedia
+#EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" tvg-chno="33" group-title="television" television="true", Pluto TV Cine Comedia
 https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5dcddfcb229eff00091b6bdf" tvg-id="5dcddfcb229eff00091b6bdf" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" tvg-chno="36" group-title="PelÃ­culas" group-title="television" television="true" group-title="television" television="true" , Pluto TV Cine Drama
+#EXTINF:-1 channel-id="pluto-5dcddfcb229eff00091b6bdf" tvg-id="5dcddfcb229eff00091b6bdf" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" tvg-chno="36"  group-title="television" television="true" group-title="television" television="true" , Pluto TV Cine Drama
 https://i.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62c5d80dc6de440007e033eb" tvg-id="62c5d80dc6de440007e033eb" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" tvg-chno="57" group-title="PelÃ­culas"group-title="television" television="true" , Runtime
+#EXTINF:-1 channel-id="pluto-62c5d80dc6de440007e033eb" tvg-id="62c5d80dc6de440007e033eb" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" tvg-chno="57" group-title="television" television="true" , Runtime
 https://i.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5ddc4e8bcbb9010009b4e84f" tvg-id="5ddc4e8bcbb9010009b4e84f" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" tvg-chno="42" group-title="PelÃ­culas" group-title="television" television="true" , Pluto TV Cine Suspenso
+#EXTINF:-1 channel-id="pluto-5ddc4e8bcbb9010009b4e84f" tvg-id="5ddc4e8bcbb9010009b4e84f" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" tvg-chno="42" group-title="television" television="true" , Pluto TV Cine Suspenso
 https://i.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
-#EXTINF:-1 channel-id="pluto-624af40c004f8000079b784d" tvg-id="624af40c004f8000079b784d" tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" tvg-chno="45" group-title="PelÃ­culas" group-title="television" television="true", Pluto TV Cine Crimen
+#EXTINF:-1 channel-id="pluto-624af40c004f8000079b784d" tvg-id="624af40c004f8000079b784d" tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" tvg-chno="45" group-title="television" television="true", Pluto TV Cine Crimen
 https://i.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
 #EXTINF:-1,tvg-id="Retropalmares.TV" tvg-logo="https://i.imgur.com/XEzIQ14b.jpg" group-title="television" television="true",Retro Palmares tv
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8 
-#EXTINF:-1 tvg-id="SolTV.pe" tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="Undefined" group-title="television" television="true",Sol Television 
+#EXTINF:-1 tvg-id="SolTV.pe" tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="television" television="true",Sol Television 
 http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" " group-title="television" television="true",Pluto TV Comedia  [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
@@ -74,7 +74,7 @@ https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecanal28.TV" tvg-name="" tvg-country="DO" tvg-language="Spanish" group-title="television" television="true" tvg-logo="https://i.imgur.com/wYklHWy.png" tvg-url="" group-title="",Telecanal 28 (360p)
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="General" group-title="television" television="true",Latina
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="television" television="true",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 #EXTINF:-1 tvg-id="CentralTV.fr" tvg-logo="https://i.imgur.com/2DU22BN.png" group-title="television" television="true",Central TV Not 24/7
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
@@ -89,17 +89,17 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?Playlist
 
 
 #EXTINF:********series******
-#EXTINF:-1 channel-id="pluto-5dcde1317578340009b751d0" tvg-id="5dcde1317578340009b751d0" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" tvg-chno="140" group-title="Series" group-title="television" television="true", Pluto TV Series
+#EXTINF:-1 channel-id="pluto-5dcde1317578340009b751d0" tvg-id="5dcde1317578340009b751d0" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" tvg-chno="140"  group-title="television" television="true", Pluto TV Series
 https://i.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5dd837642c6e9300098ad484" tvg-id="5dd837642c6e9300098ad484" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" tvg-chno="195" group-title="Series" group-title="television" television="true", Pluto TV Series Latinas
+#EXTINF:-1 channel-id="pluto-5dd837642c6e9300098ad484" tvg-id="5dd837642c6e9300098ad484" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" tvg-chno="195" group-title="television" television="true", Pluto TV Series Latinas
 https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5de802659167b10009e7deba" tvg-id="5de802659167b10009e7deba" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" tvg-chno="203" group-title="television" television="true" , Pluto TV Series Retro
 https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
-#EXTINF:-1 channel-id="pluto-631fb6be21b7440007b9f606" tvg-id="631fb6be21b7440007b9f606" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" tvg-chno="211" group-title="Retro" group-title="television" television="true" , Hechizada
+#EXTINF:-1 channel-id="pluto-631fb6be21b7440007b9f606" tvg-id="631fb6be21b7440007b9f606" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" tvg-chno="211" group-title="television" television="true" , Hechizada
 https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
-#EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" tvg-chno="235" group-title="Retro" group-title="television" television="true", MacGyver
+#EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" tvg-chno="235"  group-title="television" television="true", MacGyver
 https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" tvg-chno="259" group-title="Retro" group-title="television" television="true", Los Tres Chiflados
+#EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" tvg-chno="259"  group-title="television" television="true", Los Tres Chiflados
 https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 #EXTINF:-1 tvg-id="1279" group-title="television" television="true" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Chiquilines - Freetv.com | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
@@ -424,17 +424,14 @@ http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 
 #EXTM3U radios alternativas
-#EXTINF:-1 group-title="radio" radio="true" tvg-logo="",caracol radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/CR_BARRANQ.mp3
-#EXTINF:-1 group-title="radio" radio="true" tvg-logo="",natio station
+#EXTINF:-1 group-title="radio" radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/0a/c0/20592/c300.png",caracol radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIO.mp3
+#EXTINF:-1 group-title="radio" radio="true" tvg-logo="https://natio.neocities.org/station/images/station.png",natio station
 http://stream.zeno.fm/mfny1d4okmjuv
 #EXTINF:-1 group-title="radio" radio="true" tvg-logo="",acuario 
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACUARIO.mp3
-#EXTINF:-1 group-title="radio" radio="true" tvg-logo="",besame 
-https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_BOGOTAAAC.aac?dist=onlineradiobox" streamType="mp3
-#EXTINF:-1 group-title="radio" radio="true" tvg-logo="", w radio vendida
-https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANAAAC.aac?dist=onlineradiobox" streamType="mp3
-
+#EXTINF:-1 group-title="radio" radio="true" tvg-logo="", w radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO.mp3
 
 #EXTINF:-1 group-title="radio" radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
