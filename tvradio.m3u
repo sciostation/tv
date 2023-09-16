@@ -192,7 +192,8 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="727" group-title="television" television="true" tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png", Megavision | DO
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-id="494" tvg-logo="https://lh3.googleusercontent.com/-A_RaYdHsdSU/XxzKXkCODJI/AAAAAAAA3Y0/elHa2TXc-z8HpetZx_GzDK0vaepcN4xLACK8BGAsYHg/s0/2020-07-25.png" group-title="television" television="true", UCL TelevisiÃ³n LATAM | UY
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 
 #EXTINF:********educativo******
 
@@ -348,7 +349,7 @@ https://flucast24-h-cloud.flumotion.com/cope/net1.mp3
 https://flucast-b04-04.flumotion.com/cope/net2.mp3
 #EXTINF:-1 group-title="radio" radio="true" tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-name="Radio Nacional",Radio Nacional
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r1_main.m3u8
-#EXTINF:-1 group-title="radio" radio="true" tvg-logo="",saxum station
+#EXTINF:-1 group-title="radio" radio="true" tvg-logo="https://natio.neocities.org/radio/images/SaxumStation.png",saxum station
 http://stream.zeno.fm/x4cuyhegckyvv
 #EXTINF:-1 group-title="radio" radio="true" tvg-logo="https://www.radio.net/images/broadcasts/22/c9/21605/c300.png",radio activa 
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVA.mp3
