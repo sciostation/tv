@@ -1,16 +1,16 @@
 #EXTM3U natio station  tv
 #EXTINF: -1, propaganda natio tv
 https://ia801505.us.archive.org/9/items/natio-station-tv/natio%20%20station%20tv.mp4
-#EXTINF: -1, animal crossig
-https://ia902305.us.archive.org/34/items/videotime-cine-latino/Animal%20Crossing%20La%20pelicula.mp4
+#EXTINF: -1, Minions
+https://ia902305.us.archive.org/34/items/videotime-cine-latino/Los%20Minions.mp4
 #EXTINF: -1, presentacion radio
 https://ia801407.us.archive.org/9/items/stationnatio/stationnatio.mp4
-#EXTINF: -1, la abeja maya se escapa 
-https://ia802505.us.archive.org/33/items/llanero-solitario_202204/Llanero-hija-Juez-WM.mp4
-#EXTINF: -1, pantera rosa
-https://ia601504.us.archive.org/8/items/ElShowDeLaPanteraRosa-Latino/El%20Show%20De%20La%20Pantera%20Rosa%20-%201X01%20La%20Banda%20Hippy.mp4
-#EXTINF: -1, el show de tom y yerry
-https://ia801505.us.archive.org/9/items/293780192-364349825664645-4425757394537175136-n/293617188_5245134475540271_8145643244034355891_n.mp4
+#EXTINF: -1, han solo 
+https://ia802305.us.archive.org/34/items/videotime-cine-latino/Han%20Solo%20-%20Una%20historia%20de%20Star%20Wars.mp4
+#EXTINF: -1, wall -e
+https://ia902305.us.archive.org/34/items/videotime-cine-latino/Wall-e.mp4
+#EXTINF: -1, matar o morir
+https://ia801706.us.archive.org/11/items/videoplayback_20200904_1918/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://ia600200.us.archive.org/34/items/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--01-PilotoEspacial3000.gif"group-title="futurama",Piloto espacial
 https://ia600200.us.archive.org/34/items/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--02-LaSerieHaAterrizado.ogv
 #EXTINF:-1 , E.T el extraterrestre
@@ -19,7 +19,7 @@ https://ia902305.us.archive.org/34/items/videotime-cine-latino/E.T.%20El%20Extra
 https://ia802305.us.archive.org/34/items/videotime-cine-latino/Volver%20al%20futuro%201.mp4
 #EXTINF: -1, propaganda natio tv
 https://ia801505.us.archive.org/9/items/natio-station-tv/natio%20%20station%20tv.mp4
-#EXTINF: -1, 
+#EXTINF: -1, frente olvidado
 https://ia601601.us.archive.org/19/items/cambat-el-frente-olvidado/1-01-El_frente_olvidado_.mp4
 #EXTINF: -1, propaganda natio tv
 https://ia801505.us.archive.org/9/items/natio-station-tv/natio%20%20station%20tv.mp4
@@ -52,8 +52,8 @@ EXTINF: -1, fin emision
 https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20001%20-%20Espa%C3%B1ol%20Latino.mp4
 #EXTINF: -1, pantera rosa
 https://ia902605.us.archive.org/13/items/LaPanteraRosaElProyectoRosa.3gp/La_Pantera_Rosa_-_El_Proyecto_Rosa.mp4
-#EXTINF: -1, el show de tom y yerry
-https://ia801505.us.archive.org/9/items/293780192-364349825664645-4425757394537175136-n/293617188_5245134475540271_8145643244034355891_n%20%281%29.mp4
+#EXTINF: -1, el 
+https://ia802305.us.archive.org/34/items/videotime-cine-latino/Han%20Solo%20-%20Una%20historia%20de%20Star%20Wars.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://ia600200.us.archive.org/34/items/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--01-PilotoEspacial3000.gif"group-title="futurama",Piloto espacial
 https://ia600200.us.archive.org/34/items/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--01-PilotoEspacial3000.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo=""group-title="",ryck y mock
