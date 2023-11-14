@@ -14,18 +14,17 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/yuKjGKo.png" group-title="television" television="true",Telecaribe (720p)
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
-
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/2312Luq.png"  group-title="television" television="true",Cali Tv Not 24/7
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2.co" tvg-logo="https://i.imgur.com/BCrsZTQ.png" group-title="television" television="true",Canal 2 Cali 
 https://video13.virtualtronics.com/streamer/canal2.m3u8
 #EXTINF:-1 tvg-id="1157" tvg-name="Veo TV" group-title="television" television="true" tvg-logo="https://i2.paste.pics/10c25d2283903f2f06871459f16b8391.png", Veo TV | CO
 https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
-
 #EXTINF:********canal cine******
-
 #EXTINF:-1 tvg-id="Dorada.TV" tvg-name="Canal Vision Dorada" group-title="television" television="true" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal Vision Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://natio.neocities.org/station/images/station.png", NATIO STATION TV
+https://ia902305.us.archive.org/34/items/videotime-cine-latino/Los%20Minions.mp4
 #EXTINF:-1 tvg-id="Cinear.TV" tvg-name="CINE.AR"  group-title="television" television="true" tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png", CINE.AR * | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Dan.TV" group-title="television" television="true" tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/02/logo-de-pu%C3%B1al-tv.png"  group-title="television" television="true", Dan Tv
