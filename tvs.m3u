@@ -5,3 +5,5 @@ https://raw.githubusercontent.com/sciostation/tv/main/natiotv.m3u
 https://raw.githubusercontent.com/sciostation/tv/main/sciotv.m3u
 #EXTINF: -1, Saxum Station Tv
 https://raw.githubusercontent.com/sciostation/tv/main/saxumtv.m3u
+#EXTINF: -1, natio tv joven
+https://raw.githubusercontent.com/sciostation/tv/main/natiostationtv.m3u
