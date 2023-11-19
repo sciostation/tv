@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml"
-#EXTINF:-1 tvg-id="1" tvg-logo="https://pics.filmaffinity.com/E_T_el_extraterrestre-391240254-large.jpg" group-title="Películas" ,E.T
+#EXTINF:-1 tvg-id="E.T" tvg-logo="https://pics.filmaffinity.com/E_T_el_extraterrestre-391240254-large.jpg" group-title="Películas" ,E.T
 https://ia902305.us.archive.org/34/items/videotime-cine-latino/E.T.%20El%20Extraterrestre.mp4
-#EXTINF:-1 tvg-id="2" tvg-logo="https://museodelchocolate.com.co/wp-content/uploads/2022/02/charlie-y-la-fabrica-de-ch-1024x576.jpg" group-title="Películas" , Charlie y la fabrica de chocolate
+#EXTINF:-1 tvg-id="chocolates" tvg-logo="https://museodelchocolate.com.co/wp-content/uploads/2022/02/charlie-y-la-fabrica-de-ch-1024x576.jpg" group-title="Películas" , Charlie y la fabrica de chocolate
 https://ia802305.us.archive.org/34/items/videotime-cine-latino/Charlie%20y%20la%20fabrica%20de%20chocolate.mp4
-#EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/EpyOOzo.jpeg" group-title="Películas" ,Cruela
+#EXTINF:-1 tvg-id="Cruela" tvg-logo="https://i.imgur.com/EpyOOzo.jpeg" group-title="Películas" ,Cruela
 https://ia802305.us.archive.org/34/items/videotime-cine-latino/Cruella.mp4
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/TqNFDMU.jpeg" group-title="Películas" ,Han Solo
 https://ia902305.us.archive.org/34/items/videotime-cine-latino/Han%20Solo%20-%20Una%20historia%20de%20Star%20Wars.mp4
