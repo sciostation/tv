@@ -55,9 +55,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
 #EXTINF:-1 tvg-id="Fxx.mx" tvg-logo="/fxx.jpg"  group-title="television" television="true", FXX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713
+#EXTINF:-1 tvg-id="NATGEO.mx" tvg-logo="img/NATGEO.png"  group-title="television" television="true",NATGEO 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716
 
-
-#EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="television" television="true",TV Sur Canal 9  Not 24/7
+#EXTINF:-1 tvg-id="SurCanal9.cr" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="television" television="true",TV Sur Canal 9  Not 24/7
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1,tvg-id="Retropalmares.TV" tvg-logo="https://i.imgur.com/XEzIQ14b.jpg" group-title="television" television="true",Retro Palmares tv
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8 
