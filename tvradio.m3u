@@ -37,6 +37,8 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="television" television="true" ,Cine Sur
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:-1 tvg-id="TvAzteca.mx" tvg-logo="tvazteca.jpg" group-title="television" television="true" ,AZTECA CINEMA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-logo="img/universalcinema.png"  group-title="television" television="true", USA | Universal Cinema
 http://187.102.208.108:50001/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-logo="img/universalcomedia.png"  group-title="television" television="true", USA | Universal Comedy
@@ -179,7 +181,8 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:****canales entrenimineto***
 #EXTINF:-1 tvg-id="TvAzteca.mx" tvg-logo="img/tvazteca.jpg" group-title="television" television="true",13 Festival 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
-
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="img/lasestrellas.png" group-title="television" television="true",LAS ESTRELLAS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
 #EXTINF:-1 tvg-id="13E.cl" tvg-logo="https://i.imgur.com/utI1tJV.png"  group-title="television" television="true",13 Entretencion 
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="television" television="true",13 Festival 
