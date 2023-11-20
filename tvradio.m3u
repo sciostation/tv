@@ -27,12 +27,15 @@ https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://natio.neocities.org/station/images/stationnation.png", NATIO STATION TV
 https://ia903100.us.archive.org/30/items/Rambo1/Rambo.ogv
+#EXTINF:-1 tvg-id="Premier.TV" group-title="television" television="true" tvg-logo="canal6.png", PREMIER
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/709
 #EXTINF:-1 tvg-id="Cinear.TV" tvg-name="CINE.AR"  group-title="television" television="true" tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png", CINE.AR * | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TopCine.TV" group-title="television" television="true" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Movies",Top Cine (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="television" television="true",Cine Sony 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="television" television="true",Top Cine 
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="television" television="true" ,Cine Sur
