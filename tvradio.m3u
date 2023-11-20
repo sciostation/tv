@@ -99,8 +99,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/687
 #EXTINF:-1 tvg-id="Disney.mx" group-title="television" television="true" tvg-logo="img/disney.jpg", DISNEY JR
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/689
-#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png"  group-title="television" television="true",eSports Max (480p) [Not 24/7]
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" ,LatinoKids (360p) [Not 24/7]
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="Caillou.fr" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="television" television="true",Caillou
@@ -127,6 +125,8 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/688
 #EXTINF:-1 tvg-id=" Nickelodeon.us" group-title="television" television="true" tvg-logo="img/Nickelodeon.png",  Nickelodeon
 http://187.102.208.108:50001/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="bitme.mx" tvg-logo="img/bitme.jpg"  group-title="television" television="true",Bitme
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
 
 
 
@@ -269,6 +269,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695
 #EXTINF:-1 tvg-id="Bein.mx" tvg-logo="img/bein.jpg" group-title="television" television="true",BEIN SPORTS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+#EXTINF:-1 tvg-id="Tudn.mx" tvg-logo="img/tudn.jpg" group-title="television" television="true",TVC DEPORTES
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
+
 #EXTINF:-1 tvg-id="Bein.mx" tvg-logo="img/bein.jpg" group-title="television" television="true",BEIN SPORTS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 #EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="img/foxsports.jpg" group-title="television" television="true", FOX SPORTS
