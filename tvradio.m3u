@@ -40,9 +40,9 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 tvg-id="TvAzteca.mx" tvg-logo="tvazteca.jpg" group-title="television" television="true" ,AZTECA CINEMA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-logo="img/universalcinema.png"  group-title="television" television="true", USA | Universal Cinema
-http://187.102.208.108:50001/play/a03c/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/703
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-logo="img/universalcomedia.png"  group-title="television" television="true", USA | Universal Comedy
-http://187.102.208.108:50001/play/a03g/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/702
 #EXTINF:-1 tvg-id="Hbo.us" tvg-logo="/hbo.png"  group-title="television" television="true", USA | HBO
 http://170.82.37.21:8000/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="television" television="true",TV Sur Canal 9  Not 24/7
@@ -101,6 +101,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?Playlis
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1421" group-title="television" television="true" tvg-logo="https://i2.paste.pics/fe14daf029d32fcab7f6305dc2e7a86e.png", 13 Kids | CL
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Disney.mx" group-title="television" television="true" tvg-logo="img/disney.jpg", DISNEY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/688
 #EXTINF:-1 tvg-id=" Nickelodeon.us" group-title="television" television="true" tvg-logo="img/Nickelodeon.png",  Nickelodeon
 http://187.102.208.108:50001/play/a047/index.m3u8
 
