@@ -257,12 +257,16 @@ https://vdo.panelstreaming.live:3740/live/turismotravellive.m3u8?PlaylistM3UCL
 
 
 #EXTINF:********deportes******
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="espn.png" group-title="television" television="true",ESPN
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="img/espn.png" group-title="television" television="true",ESPN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="espn.png" group-title="television" television="true",ESPN 2
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="imgespn.png" group-title="television" television="true",ESPN 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="espn.png" group-title="television" television="true",ESPN 3
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="img/espn.png" group-title="television" television="true",ESPN 3
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695
+#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="img/foxsports.jpg" group-title="television" television="true", FOX SPORTS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706
+#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="imgfoxsports.jpg" group-title="television" television="true", FOX SPORTS 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707
 
 #EXTINF:-1 channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" tvg-chno="795" group-title="television" television="true" , Chilevision Deportes
 https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
