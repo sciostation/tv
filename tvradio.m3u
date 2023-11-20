@@ -125,8 +125,11 @@ http://187.102.208.108:50001/play/a047/index.m3u8
 
 #EXTINF:****noticias***
 
-#EXTINF:-1 tvg-id="Euronews.TV" group-title="television" television="true" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="television" television="true" tvg-name="Euronews",Euronews
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo.TV" group-title="television" television="true" tvg-logo="img/telemundo.png" group-title="television" television="true" ,Telemundo puerto rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="Univision.TV" group-title="television" television="true" tvg-logo="img/univision.jpg" group-title="television" television="true" ,Univision
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+
 #EXTINF:-1 tvg-id="CNNenEspanol.us" group-title="television" television="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="television" television="true",CNN 
 http://181.78.24.67:8010/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="television" television="true",RT  
