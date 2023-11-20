@@ -88,8 +88,16 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?Playlist
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:********ANIMADOS******
-#EXTINF:-1,tvg-id="Cartoon.TV" group-title="television" television="true",Cartoon Network Latino
+#EXTINF:-1,tvg-id="Cartoon.TV" tvg-logo="img/cartoon.png" group-title="television" television="true",Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="img/craftypanda.png" ,CARTOONITO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
+#EXTINF:-1,tvg-id="Cartoon.TV" tvg-logo="img/cartoon.png" group-title="television" television="true",Cartoon Network 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+#EXTINF:-1 tvg-id=" DK" tvg-logo="img/craftypanda.png" , DK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/687
+
+
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png"  group-title="television" television="true",eSports Max (480p) [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" ,LatinoKids (360p) [Not 24/7]
