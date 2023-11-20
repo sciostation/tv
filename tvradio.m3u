@@ -37,6 +37,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
 #EXTINF:-1 tvg-id="Anx.mx" tvg-logo="/anx.jpg"  group-title="television" television="true", ANX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
+#EXTINF:-1 tvg-id="A&E.mx" tvg-logo="img/a&e.png"  group-title="television" television="true", A&E
+http://190.187.154.156:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id="A&E.mx" tvg-logo="img/space.png"  group-title="television" television="true", SPACE
+http://170.82.37.21:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="Fxx.mx" tvg-logo="/fxx.jpg"  group-title="television" television="true", FXX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713
 #EXTINF:-1 tvg-id="Premier.TV" group-title="television" television="true" tvg-logo="canal6.png", PREMIER
