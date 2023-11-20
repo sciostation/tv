@@ -177,6 +177,9 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 group-title="television" television="true" tvg-logo="https://imgur.com/gallery/i2YadSZ",Litus TV Santa 
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:****canales entrenimineto***
+#EXTINF:-1 tvg-id="TvAzteca.mx" tvg-logo="img/tvazteca.jpg" group-title="television" television="true",13 Festival 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
+
 #EXTINF:-1 tvg-id="13E.cl" tvg-logo="https://i.imgur.com/utI1tJV.png"  group-title="television" television="true",13 Entretencion 
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="television" television="true",13 Festival 
