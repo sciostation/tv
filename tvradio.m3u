@@ -37,6 +37,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713
 #EXTINF:-1 tvg-id="NATGEO.mx" tvg-logo="img/NATGEO.png"  group-title="television" television="true",NATGEO 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716
+#EXTINF:-1 tvg-id="Premier.TV" group-title="television" television="true" tvg-logo="canal6.png", PREMIER
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/709
 #EXTINF:-1 tvg-id="Dorada.TV" tvg-name="Canal Vision Dorada" group-title="television" television="true" tvg-logo="img/dorada.jpg", Canal Vision Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://natio.neocities.org/station/images/stationnation.png", NATIO STATION TV
@@ -257,6 +259,8 @@ https://vdo.panelstreaming.live:3740/live/turismotravellive.m3u8?PlaylistM3UCL
 
 
 #EXTINF:********deportes******
+#EXTINF:-1 tvg-id="Tudn.mx" tvg-logo="img/tudn.jpg" group-title="television" television="true",Tudn
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="img/espn.png" group-title="television" television="true",ESPN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="imgespn.png" group-title="television" television="true",ESPN 2
