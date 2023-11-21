@@ -1,4 +1,7 @@
-#EXTINF:********youtobetv******
+#EXTINF:********tvcable******
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/telemundo.png" group-title="television" television="true",Telemundo Internacional
+http://170.82.37.21:8000/play/a02r/index.m3u8
+
 #EXTINF:-1 tvg-id="Tudn.mx" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/tudn.jpg" group-title="television" television="true",Tudn
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/espn.png" group-title="television" television="true",ESPN
