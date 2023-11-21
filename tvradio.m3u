@@ -23,51 +23,31 @@ https://video13.virtualtronics.com/streamer/canal2.m3u8
 #EXTINF:-1 tvg-id="1157" tvg-name="Veo TV" group-title="television" television="true" tvg-logo="img/dorada.jpg", Veo TV | CO
 https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
 #EXTINF:********canal cine******
-#EXTINF:-1 tvg-id="UniversalCinema.us" tvg-logo="img/universalcinema.png"  group-title="television" television="true", USA | Universal Cinema
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/703
-#EXTINF:-1 tvg-id="UniversalCinema.us" tvg-logo="img/universalcomedia.png"  group-title="television" television="true", USA | Universal Comedy
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/702
-#EXTINF:-1 tvg-id="Hbo.us" tvg-logo="/hbo.png"  group-title="television" television="true", USA | HBO
+
+#EXTINF:-1 tvg-id="Hbo.us" tvg-logo="https://github.com/sciostation/tv/blob/main/img/hbo.png?raw=true"  group-title="television" television="true", USA | HBO
 http://170.82.37.21:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-id="Hbo.us" tvg-logo="/hbo.png"  group-title="television" television="true", HBO 2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/710
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="/cimemax.jpg"  group-title="television" television="true", Cinemax
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
-#EXTINF:-1 tvg-id="Fxx.mx" tvg-logo="/fxx.jpg"  group-title="television" television="true", FX
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
-#EXTINF:-1 tvg-id="Anx.mx" tvg-logo="/anx.jpg"  group-title="television" television="true", ANX
+#EXTINF:-1 tvg-id="Anx.mx" tvg-logo="https://github.com/sciostation/tv/blob/main/img/anx.jpg?raw=true"  group-title="television" television="true", ANX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
-#EXTINF:-1 tvg-id="A&E.mx" tvg-logo="img/a&e.png"  group-title="television" television="true", A&E
+#EXTINF:-1 tvg-id="A&E.mx" tvg-logo="https://github.com/sciostation/tv/blob/main/img/a&e.png?raw=true"  group-title="television" television="true", A&E
 http://190.187.154.156:8000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-id="A&E.mx" tvg-logo="img/space.png"  group-title="television" television="true", SPACE
+#EXTINF:-1 tvg-id="A&E.mx" tvg-logo="https://github.com/sciostation/tv/blob/main/img/space.png?raw=true"  group-title="television" television="true", SPACE
 http://170.82.37.21:8000/play/a030/index.m3u8
-#EXTINF:-1 tvg-id="Fxx.mx" tvg-logo="/fxx.jpg"  group-title="television" television="true", FXX
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713
-#EXTINF:-1 tvg-id="Warner.TV" group-title="television" television="true" tvg-logo="img/Warner.jpg",  Warner Channel
+#EXTINF:-1 tvg-id="Warner.TV" group-title="television" television="true" tvg-logo="https://github.com/sciostation/tv/blob/main/img/Warner.jpg?raw=true",  Warner Channel
 http://187.102.208.108:50001/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="Paramount.TV" group-title="television" television="true" tvg-logo="img/paramount.jpg", Paramount Network
+#EXTINF:-1 tvg-id="Paramount.TV" group-title="television" television="true" tvg-logo="https://github.com/sciostation/tv/blob/main/img/paramount.jpg?raw=true", Paramount Network
 http://190.187.154.156:8000/play/a06n/index.m3u8
-#EXTINF:-1 tvg-id="Stars.TV" group-title="television" television="true" tvg-logo="img/star.jpg", Star
+#EXTINF:-1 tvg-id="Stars.TV" group-title="television" television="true" tvg-logo="https://github.com/sciostation/tv/blob/main/img/star.jpg?raw=true", Star
 http://190.187.154.156:8000/play/a066/index.m3u8
-#EXTINF:-1 tvg-id="Tnt.TV" group-title="television" television="true" tvg-logo="img/tnt.png", TNT
+#EXTINF:-1 tvg-id="Tnt.TV" group-title="television" television="true" tvg-logo="https://github.com/sciostation/tv/blob/main/img/tnt.png?raw=true", TNT
 http://170.82.37.21:8000/play/a03a/index.m3u8
-#EXTINF:-1 tvg-id="Tnt.TV" group-title="television" television="true" tvg-logo="img/tnt.png", TNT SERIES
+#EXTINF:-1 tvg-id="Tnt.TV" group-title="television" television="true" tvg-logo="https://github.com/sciostation/tv/blob/main/img/tnt.png?raw=true", TNT SERIES
 http://170.82.37.21:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-id="Golden.TV" group-title="television" television="true" tvg-logo="img/golden.png", Golden
+#EXTINF:-1 tvg-id="Golden.TV" group-title="television" television="true" tvg-logo="https://github.com/sciostation/tv/blob/main/img/golden.png?raw=true", Golden
 http://45.5.117.182:8000/play/a0go/index.m3u8
-#EXTINF:-1 tvg-id="Golden.TV" group-title="television" television="true" tvg-logo="img/golden.png", Golden Plus
+#EXTINF:-1 tvg-id="Golden.TV" group-title="television" television="true" tvg-logo="https://github.com/sciostation/tv/blob/main/img/golden.png?raw=true", Golden Plus
 http://187.102.208.108:50001/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="Golden.TV" group-title="television" television="true" tvg-logo="img/golden.png", Golden Plus Premier
+#EXTINF:-1 tvg-id="Golden.TV" group-title="television" television="true" tvg-logo="https://github.com/sciostation/tv/blob/main/img/golden.png?raw=true", Golden Plus Premier
 http://170.82.37.21:8000/play/a02e/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Premier.TV" group-title="television" television="true" tvg-logo="canal6.png", PREMIER
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/709
 #EXTINF:-1 tvg-id="Dorada.TV" tvg-name="Canal Vision Dorada" group-title="television" television="true" tvg-logo="img/dorada.jpg", Canal Vision Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://natio.neocities.org/station/images/stationnation.png", NATIO STATION TV
@@ -82,13 +62,9 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="television" television="true" ,Cine Sur
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:-1 tvg-id="TvAzteca.mx" tvg-logo="tvazteca.jpg" group-title="television" television="true" ,AZTECA CINEMA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
-#EXTINF:-1 tvg-id="dpelicula.mx" tvg-logo="img/dpelicula.jpg"  group-title="television" television="true",  DPELICULA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/507
 #EXTINF:-1 tvg-id="SurCanal9.cr" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="television" television="true",TV Sur Canal 9  Not 24/7
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-#EXTINF:-1,tvg-id="Retropalmares.TV" tvg-logo="img/retro.jpg" group-title="television" television="true",Retro Palmares tv
+#EXTINF:-1,tvg-id="Retropalmares.TV" tvg-logo="https://github.com/sciostation/tv/blob/main/img/retro.jpg?raw=true" group-title="television" television="true",Retro Palmares tv
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8 
 #EXTINF:-1 tvg-id="ACSNetwork.pr" tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="Entertainment",ACS Network (480p)
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
