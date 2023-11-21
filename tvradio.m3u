@@ -130,7 +130,8 @@ http://187.102.208.108:50001/play/a047/index.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="Univision.TV" group-title="television" television="true" tvg-logo="img/univision.jpg" group-title="television" television="true" ,Univision
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-
+#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION", 198 | CNN en Español
+http://45.5.117.182:8000/play/a0f6/index.m3u8
 #EXTINF:-1 tvg-id="511" group-title="television" television="true" tvg-logo="https://i2.paste.pics/87aecfde94d70bc55954b6c3e0a88661.png", DW 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 channel-id="pluto-62310d5a5dc9550007c6f580" tvg-id="62310d5a5dc9550007c6f580" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" tvg-chno="677" group-title="television" television="true", CBS News
