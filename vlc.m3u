@@ -1,6 +1,7 @@
 #EXTINF:********tvcable******
 #EXTINF:-1 tvg-id="Telemundo.mx" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/telemundo.png" group-title="television" television="true",Telemundo Internacional
 http://170.82.37.21:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/telemundo.png" group-title="television" television="true",Telemundo Internacional
 
 #EXTINF:-1 tvg-id="Tudn.mx" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/tudn.jpg" group-title="television" television="true",Tudn
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
@@ -23,5 +24,15 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/foxsports.jpg" group-title="television" television="true", DAZN F1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
 
+#EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", 64 | Investigation Discovery
+http://190.187.154.156:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="USA | A&E" tvg-name="USA | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="DOCUMENTALES Y SERIES", 65 | A&E
+http://190.187.154.156:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="PELICULAS Y SERIES", 66 | AMC
+http://190.187.154.156:8000/play/a06x/index.m3u8
+#EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 67 | Space
+http://170.82.37.21:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 68 | AXN
+http://190.187.154.156:8000/play/a069/index.m3u8
 
 
