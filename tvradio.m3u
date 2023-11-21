@@ -116,12 +116,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?Playlis
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1421" group-title="television" television="true" tvg-logo="https://i2.paste.pics/fe14daf029d32fcab7f6305dc2e7a86e.png", 13 Kids | CL
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Disney.mx" group-title="television" television="true" tvg-logo="img/disney.jpg", DISNEY CHANNEL
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/688
-#EXTINF:-1 tvg-id=" Nickelodeon.us" group-title="television" television="true" tvg-logo="img/Nickelodeon.png",  Nickelodeon
+#EXTINF:-1 tvg-id=" Nickelodeon.us" group-title="television" television="true" tvg-logo="https://github.com/sciostation/tv/blob/main/img/Nickelodeon.png?raw=true",  Nickelodeon
 http://187.102.208.108:50001/play/a047/index.m3u8
-#EXTINF:-1 tvg-id="bitme.mx" tvg-logo="img/bitme.jpg"  group-title="television" television="true",Bitme
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
+
 
 
 
@@ -134,10 +131,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Univision.TV" group-title="television" television="true" tvg-logo="img/univision.jpg" group-title="television" television="true" ,Univision
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
-#EXTINF:-1 tvg-id="CNNenEspanol.us" group-title="television" television="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="television" television="true",CNN 
-http://181.78.24.67:8010/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="television" television="true",RT  
-https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
 #EXTINF:-1 tvg-id="511" group-title="television" television="true" tvg-logo="https://i2.paste.pics/87aecfde94d70bc55954b6c3e0a88661.png", DW 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 channel-id="pluto-62310d5a5dc9550007c6f580" tvg-id="62310d5a5dc9550007c6f580" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" tvg-chno="677" group-title="television" television="true", CBS News
@@ -201,20 +194,8 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 group-title="television" television="true" tvg-logo="https://imgur.com/gallery/i2YadSZ",Litus TV Santa 
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:****canales entrenimineto***
-#EXTINF:-1 tvg-id="NATGEO.mx" tvg-logo="img/NATGEO.png"  group-title="television" television="true",NATGEO 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716
-#EXTINF:-1 tvg-id="Discovery.mx" tvg-logo="img/discovery.png"  group-title="television" television="true", DISCOVERY FAMILIA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
-#EXTINF:-1 tvg-id="history.mx" tvg-logo="img/history.jpg"  group-title="television" television="true",HISTORY
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711
-#EXTINF:-1 tvg-id="universal.mx" tvg-logo="img/universal.jpg" group-title="television" television="true",UNIVERSAL REALTY
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700
-#EXTINF:-1 tvg-id="TvAzteca.mx" tvg-logo="img/tvazteca.jpg" group-title="television" television="true",13 Festival 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="img/lasestrellas.png" group-title="television" television="true",LAS ESTRELLAS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
-#EXTINF:-1 tvg-id="unicablecl" tvg-logo="img/univision.jpg"  group-title="television" television="true",UNICABLE
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/727
+
+
 #EXTINF:-1 tvg-id="13E.cl" tvg-logo="https://i.imgur.com/utI1tJV.png"  group-title="television" television="true",13 Entretencion 
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="television" television="true",13 Festival 
@@ -262,27 +243,7 @@ https://vdo.panelstreaming.live:3740/live/turismotravellive.m3u8?PlaylistM3UCL
 
 
 #EXTINF:********deportes******
-#EXTINF:-1 tvg-id="Tudn.mx" tvg-logo="img/tudn.jpg" group-title="television" television="true",Tudn
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="img/espn.png" group-title="television" television="true",ESPN
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="imgespn.png" group-title="television" television="true",ESPN 2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="img/espn.png" group-title="television" television="true",ESPN 3
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695
-#EXTINF:-1 tvg-id="Bein.mx" tvg-logo="img/bein.jpg" group-title="television" television="true",BEIN SPORTS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
-#EXTINF:-1 tvg-id="Tudn.mx" tvg-logo="img/tudn.jpg" group-title="television" television="true",TVC DEPORTES
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
 
-#EXTINF:-1 tvg-id="Bein.mx" tvg-logo="img/bein.jpg" group-title="television" television="true",BEIN SPORTS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="img/foxsports.jpg" group-title="television" television="true", FOX SPORTS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706
-#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="imgfoxsports.jpg" group-title="television" television="true", FOX SPORTS 2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707
-#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="img/foxsports.jpg" group-title="television" television="true", DAZN F1
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
 #EXTINF:-1 channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" tvg-chno="795" group-title="television" television="true" , Chilevision Deportes
 https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62d816fcf24d280008762ee9" tvg-id="62d816fcf24d280008762ee9" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" tvg-chno="800" group-title="television" television="true", La Liga Premier | Paramount+
