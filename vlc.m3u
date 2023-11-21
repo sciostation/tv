@@ -1,23 +1,23 @@
 #EXTINF:********youtobetv******
-#EXTINF:-1 tvg-id="Tudn.mx" tvg-logo="img/tudn.jpg" group-title="television" television="true",Tudn
+#EXTINF:-1 tvg-id="Tudn.mx" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/tudn.jpg" group-title="television" television="true",Tudn
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="img/espn.png" group-title="television" television="true",ESPN
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/espn.png" group-title="television" television="true",ESPN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="imgespn.png" group-title="television" television="true",ESPN 2
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/espn.png" group-title="television" television="true",ESPN 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="img/espn.png" group-title="television" television="true",ESPN 3
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/espn.png" group-title="television" television="true",ESPN 3
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695
-#EXTINF:-1 tvg-id="Bein.mx" tvg-logo="img/bein.jpg" group-title="television" television="true",BEIN SPORTS
+#EXTINF:-1 tvg-id="Bein.mx" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/bein.jpg" group-title="television" television="true",BEIN SPORTS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 #EXTINF:-1 tvg-id="Tudn.mx" tvg-logo="img/tudn.jpg" group-title="television" television="true",TVC DEPORTES
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
-#EXTINF:-1 tvg-id="Bein.mx" tvg-logo="img/bein.jpg" group-title="television" television="true",BEIN SPORTS
+#EXTINF:-1 tvg-id="Bein.mx" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/bein.jpg" group-title="television" television="true",BEIN SPORTS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="img/foxsports.jpg" group-title="television" television="true", FOX SPORTS
+#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/foxsports.jpg" group-title="television" television="true", FOX SPORTS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706
-#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="imgfoxsports.jpg" group-title="television" television="true", FOX SPORTS 2
+#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/foxsports.jpg" group-title="television" television="true", FOX SPORTS 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707
-#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="img/foxsports.jpg" group-title="television" television="true", DAZN F1
+#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="https://raw.githubusercontent.com/sciostation/tv/main/img/foxsports.jpg" group-title="television" television="true", DAZN F1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
 
 
