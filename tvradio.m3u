@@ -244,7 +244,10 @@ https://vdo.panelstreaming.live:3740/live/turismotravellive.m3u8?PlaylistM3UCL
 
 
 #EXTINF:********deportes******
-
+#EXTINF:-1 tvg-id="CO | Win Sports" tvg-name="CO | Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/150px-WinSports2022.png" group-title="DEPORTES", 243 | Win Sports
+http://45.233.169.13:8000/play/a0c3/index.m3u8
+#EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 244 | Win Sports+
+http://45.233.169.13:8000/play/a0c4/index.m3u8
 #EXTINF:-1 channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" tvg-chno="795" group-title="television" television="true" , Chilevision Deportes
 https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62d816fcf24d280008762ee9" tvg-id="62d816fcf24d280008762ee9" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" tvg-chno="800" group-title="television" television="true", La Liga Premier | Paramount+
