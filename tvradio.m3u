@@ -118,6 +118,9 @@ https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id=" Nickelodeon.us" group-title="television" television="true" tvg-logo="https://github.com/sciostation/tv/blob/main/img/Nickelodeon.png?raw=true",  Nickelodeon
 http://187.102.208.108:50001/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="PakaPaka" tvg-logo="https://github.com/sciostation/tv/blob/main/img/paka.jpg?raw=true
+http://200.63.95.6:8000/play/a03x/index.m3u8
+
 
 
 
