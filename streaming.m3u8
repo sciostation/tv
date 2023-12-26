@@ -28,5 +28,12 @@ https://ia802305.us.archive.org/34/items/videotime-cine-latino/Charlie%20y%20la%
 #EXTINF:-1 tvg-id="Cruela" tvg-logo="https://i.imgur.com/EpyOOzo.jpeg" group-title="Películas" ,Cruela
 https://ia802305.us.archive.org/34/items/videotime-cine-latino/Cruella.mp4
 
-#EXTINF:-1 tvg-id="Films" tvg-logo="" group-title="Películas" ,
+#EXTINF:-1 tvg-id="Films" tvg-logo="img/volveralfuturo.jpg" group-title="Películas" ,volver al futuro 1
+https://ia802305.us.archive.org/34/items/videotime-cine-latino/Volver%20al%20futuro%201.mp4
+#EXTINF:-1 tvg-id="Films" tvg-logo="img/volveralfuturo.jpg" group-title="Películas" ,volver al futuro 2
+https://ia802305.us.archive.org/34/items/videotime-cine-latino/Volver%20al%20futuro%202.mp4
+#EXTINF:-1 tvg-id="Films" tvg-logo="img/volveralfuturo.jpg" group-title="Películas" ,volver al futuro 3
+https://ia802305.us.archive.org/34/items/videotime-cine-latino/Volver%20al%20futuro%203.mp4
+
+
 
