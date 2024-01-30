@@ -1,7 +1,7 @@
 [
     ["name", "category", "image", "url"],
 
-    ["Welcome", "welcome", "img/welcome1.jpg", "videos/stationnatio.mp4"],
+    ["Welcome", "welcome", "https://lengendarium.neocities.org/tv/img/TVS.gif", "https://ia801301.us.archive.org/3/items/natio/natio.mp4"],
     
     ["canal uno", "news", "img/uno.jpg", "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8"],
     
@@ -99,7 +99,7 @@
 
     ["costa tv", "news", "img/costatv.png", "https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8"],
 
-    ["teleseries", "news", "https://lengendarium.neocities.org/tv/img/TVS.gif", "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"],   
+    ["teleseries", "news", "img/universalcomedia.png", "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"],   
     
     ["buenatv", "news", "img/buenatv.png", "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8"],
     
