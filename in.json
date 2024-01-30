@@ -95,6 +95,7 @@
     
     ["comedia", "news", "img/comedia.jpg", "https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8"],
     
+     ["natio tv", "news", "img/stationlogo.jpg", "https://raw.githubusercontent.com/sciostation/tv/main/natiostationtv.m3u?PlaylistM3UCL"],
 
 
     ["costa tv", "news", "img/costatv.png", "https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8"],
