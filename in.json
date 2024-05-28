@@ -1,7 +1,7 @@
 [
     ["name", "category", "image", "url"],
 
-    ["Welcome", "welcome", "https://legendarium.neocities.org/tv/img/TVS.gif", "https://ia801301.us.archive.org/3/items/natio/natio.mp4"],
+    ["Welcome", "welcome", "https://legendarium.neocities.org/tv/img/TVS.gif", "https://ia600407.us.archive.org/6/items/legendarium-tv-hecho-con-clipchamp/legendarium%20tv%20%E2%80%90%20Hecho%20con%20Clipchamp.mp4"],
     
     ["canal uno", "news", "img/uno.jpg", "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8"],
     
@@ -95,7 +95,7 @@
     
     ["comedia", "news", "img/comedia.jpg", "https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8"],
     
-     ["natio tv", "news", "img/stationlogo.jpg", "https://ia902302.us.archive.org/22/items/laserionlatino/Laserion%20-%2001%20-%20El%20somnoliento%20robot%20%5BLEGK%5D.mp4"],
+     ["natio tv", "news", "img/stationlogo.jpg", "https://ia801301.us.archive.org/3/items/natio/natio.mp4"],
 
 
     ["costa tv", "news", "img/costatv.png", "https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8"],
