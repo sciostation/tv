@@ -36,7 +36,7 @@
 
 
 
-    ["Saxum Station", "fun", "https://raw.githubusercontent.com/sciostation/tv/main/img/SaxumStation.png", "https://stream.zeno.fm/x4cuyhegckyvv"],
+    ["Saxum Station", "Internet Radio", "https://raw.githubusercontent.com/sciostation/tv/main/img/SaxumStation.png", "https://stream.zeno.fm/x4cuyhegckyvv"],
 
      ["AwapaSportsTV", "news", "https://i.imgur.com/MNw5cJH.jpg", "https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8"],
 
@@ -87,7 +87,7 @@
 
     ["Atresplayer", "news", "img/atresplayer.png", "https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8"],       
     
-    ["scio tecno", "news", "https://raw.githubusercontent.com/sciostation/tv/main/img/tv.ico", "https://stream.zeno.fm/gjgmji2u0gauv"],
+    ["scio tecno", "Internet Radio", "https://raw.githubusercontent.com/sciostation/tv/main/img/tv.ico", "https://stream.zeno.fm/gjgmji2u0gauv"],
     
 
 
@@ -95,7 +95,7 @@
     
     ["comedia", "news", "img/comedia.jpg", "https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8"],
     
-     ["natio station", "news", "img/stationlogo.jpg", "https://stream.zeno.fm/mfny1d4okmjuv"],
+     ["natio station", "Internet Radio", "img/stationlogo.jpg", "https://stream.zeno.fm/mfny1d4okmjuv"],
 
 
     ["costa tv", "news", "img/costatv.png", "https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8"],
@@ -105,7 +105,7 @@
     ["buenatv", "news", "img/buenatv.png", "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8"],
     
 
-    ["clasic music", "news", "https://raw.githubusercontent.com/sciostation/tv/main/img/tv.ico", "https://stream.zeno.fm/gdxbkpcpjnrvv"] 
+    ["Scio clasic music", "Internet Radio", "https://raw.githubusercontent.com/sciostation/tv/main/img/tv.ico", "https://stream.zeno.fm/gdxbkpcpjnrvv"] 
 
 	]
 
