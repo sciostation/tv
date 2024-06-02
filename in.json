@@ -36,7 +36,7 @@
 
 
 
-    ["Saxum Station", "fun", "img/SaxumStation.png", "https://stream.zeno.fm/x4cuyhegckyvv"],
+    ["Saxum Station", "fun", "https://raw.githubusercontent.com/sciostation/tv/main/img/SaxumStation.png", "https://stream.zeno.fm/x4cuyhegckyvv"],
 
      ["AwapaSportsTV", "news", "https://i.imgur.com/MNw5cJH.jpg", "https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8"],
 
