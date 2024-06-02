@@ -87,7 +87,7 @@
 
     ["Atresplayer", "news", "img/atresplayer.png", "https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8"],       
     
-    ["scio tecno", "news", "img/atresplayer.png", "https://stream.zeno.fm/gjgmji2u0gauv"],
+    ["scio tecno", "news", "https://raw.githubusercontent.com/sciostation/tv/main/img/tv.ico", "https://stream.zeno.fm/gjgmji2u0gauv"],
     
 
 
@@ -105,7 +105,7 @@
     ["buenatv", "news", "img/buenatv.png", "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8"],
     
 
-    ["clasic music", "news", "img/Armstrong.jpg", "https://stream.zeno.fm/gdxbkpcpjnrvv"] 
+    ["clasic music", "news", "https://raw.githubusercontent.com/sciostation/tv/main/img/tv.ico", "https://stream.zeno.fm/gdxbkpcpjnrvv"] 
 
 	]
 
