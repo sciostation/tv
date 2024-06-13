@@ -66,7 +66,7 @@
     
     ["animetv", "fun", "https://i.imgur.com/CFSSTID.png", "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8"],
     
-    ["Estacion Retro", "fun", "https://cdn.m3u.cl/logo/1545_Estacion_Retro.png", "https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?PlaylistM3UCL"],
+    ["ADN40", "fun", "https://i.imgur.com/Og17U9N.png", "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"],
     
     ["canal capital", "fun", "https://i.imgur.com/zAYtbYi.png", "https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8"],
   
@@ -74,7 +74,7 @@
        
     ["La Mega Mundial USA", "fun", "https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200", "https://server40.servistreaming.com:3477/stream/play.m3u8"],
 
-    ["Ant TV", "fun", "img/BHTV.jpg", "https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8"],
+    ["Ant TV", "news", "img/BHTV.jpg", "https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8"],
 
     
     
