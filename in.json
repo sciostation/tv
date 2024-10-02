@@ -55,7 +55,7 @@
        
 ["La Mega Mundial USA", "fun", "https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200", "https://server40.servistreaming.com:3477/stream/play.m3u8"],
 
-["Ant TV", "news", "", "https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8"],
+["Ant TV", "news", "img/anx.jpg", "https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8"],
 
 ["cascara tv", "movies", "img/cascaratv.png", "https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8"],
     
