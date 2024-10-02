@@ -63,33 +63,27 @@
    
 ["ATMTelevision", "news", "https://i.imgur.com/pdmh1pT.png", "https://v4.tustreaming.cl/atmtv/index.m3u8"],       
 
-["Natio Station tv", "news", "https://raw.githubusercontent.com/sciostation/tv/main/img/natiotv.png", "https://ia804600.us.archive.org/33/items/natio-station-tv_20240611/NATIO%20STATION%20TV.mp4"],
-
-["Saxum Station", "Internet Radio", "https://raw.githubusercontent.com/sciostation/tv/main/img/SaxumStation.png", "https://stream.zeno.fm/x4cuyhegckyvv"],
-	
-["scio tecno", "Internet Radio", "https://raw.githubusercontent.com/sciostation/tv/main/img/tv.ico", "https://stream.zeno.fm/gjgmji2u0gauv"],
+["comedia", "news", "img/comedia.jpg", "https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8"],
     
+["costa tv", "news", "img/costatv.png", "https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8"],
 
-
+["teleseries", "news", "https://i.imgur.com/Agtfbfi.png", "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"],   
     
-    
-    ["comedia", "news", "img/comedia.jpg", "https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8"],
-    
-     ["natio station", "Internet Radio", "img/stationlogo.jpg", "https://stream.zeno.fm/mfny1d4okmjuv"],
-
-
-    ["costa tv", "news", "img/costatv.png", "https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8"],
-
-    ["teleseries", "news", "https://i.imgur.com/Agtfbfi.png", "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"],   
-    
-    ["buenatv", "news", "img/buenatv.png", "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8"],
+["buenatv", "news", "img/buenatv.png", "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8"],
 
  ["Bob Ross", "news", "https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/styles/articulo_760x422/public/field/image/article/bob-ross-cabello-falso-2-e1472604979288.jpg?itok=BzebYKXV", "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8"],
 
 ["15tv Sabinas", "news", "https://i.imgur.com/EY0DlT0.png", "https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8"],
-	
 
-    ["Scio clasic music", "Internet Radio", "https://raw.githubusercontent.com/sciostation/tv/main/img/tv.ico", "https://stream.zeno.fm/gdxbkpcpjnrvv"] 
+["Natio Station tv", "news", "https://raw.githubusercontent.com/sciostation/tv/main/img/natiotv.png", "https://ia804600.us.archive.org/33/items/natio-station-tv_20240611/NATIO%20STATION%20TV.mp4"],
+	
+["natio station", "Internet Radio", "img/stationlogo.jpg", "https://stream.zeno.fm/mfny1d4okmjuv"],
+	
+["Saxum Station", "Internet Radio", "https://raw.githubusercontent.com/sciostation/tv/main/img/SaxumStation.png", "https://stream.zeno.fm/x4cuyhegckyvv"],
+	
+["scio tecno", "Internet Radio", "https://raw.githubusercontent.com/sciostation/tv/main/img/tv.ico", "https://stream.zeno.fm/gjgmji2u0gauv"],
+
+["Scio clasic music", "Internet Radio", "https://raw.githubusercontent.com/sciostation/tv/main/img/tv.ico", "https://stream.zeno.fm/gdxbkpcpjnrvv"] 
 
 	]
 
