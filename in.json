@@ -3,7 +3,6 @@
 
     ["Welcome", "welcome", "https://legendarium.neocities.org/tv/img/TVS.gif", "https://ia600407.us.archive.org/6/items/legendarium-tv-hecho-con-clipchamp/legendarium%20tv%20%E2%80%90%20Hecho%20con%20Clipchamp.mp4"],
     
-    ["pintura", "news", "https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/styles/articulo_760x422/public/field/image/article/bob-ross-cabello-falso-2-e1472604979288.jpg?itok=BzebYKXV", "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8"],
     
     ["colombia", "news", "img/colombia.jpg", "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"],
     
@@ -103,7 +102,11 @@
     ["teleseries", "news", "img/universalcomedia.png", "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"],   
     
     ["buenatv", "news", "img/buenatv.png", "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8"],
-    
+
+ ["Bob Ross", "news", "https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/styles/articulo_760x422/public/field/image/article/bob-ross-cabello-falso-2-e1472604979288.jpg?itok=BzebYKXV", "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8"],
+
+["la marina tv", "news", "https://i.imgur.com/BTJvvBK.png", "https://streaming005.gestec-video.com/hls/canal24.m3u8"],
+	
 
     ["Scio clasic music", "Internet Radio", "https://raw.githubusercontent.com/sciostation/tv/main/img/tv.ico", "https://stream.zeno.fm/gdxbkpcpjnrvv"] 
 
