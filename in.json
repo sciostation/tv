@@ -21,7 +21,7 @@
 
     ["retro palmares", "movie", "img/retro.jpg", "https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8"],
         
-    ["Mas 1", "movie", "img/anx.jpg", "https://live.obslivestream.com/mas1/index.m3u8"],
+    ["Mas 1", "movie", "https://sciomedios.neocities.org/img/tvretro.png", "https://live.obslivestream.com/mas1/index.m3u8"],
     
    ["clan internacional", "news", "https://i.imgur.com/03jFV68.png", "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8"],
     
