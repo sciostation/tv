@@ -33,7 +33,7 @@
 
  ["RCN EXTRA ", "news", "img/rcn.jpg", "https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8"],
        
- ["Taltal TV ", "movie", "img/taltaltv.jpg", "https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8"],
+ ["Taltal TV ", "movie", "https://sciomedios.neocities.org/img/taltaltv.jpg", "https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8"],
     
 ["amx noticias", "fun", "https://i.imgur.com/snIU1UA.jpg", "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8"],
     
