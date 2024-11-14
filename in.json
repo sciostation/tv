@@ -17,7 +17,7 @@
 
     ["anc tv", "movie", "https://i.imgur.com/xjTU14t.jpg", "https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8"],
 
-    ["Futura TV", "movie", "https://tv-azteca.fandom.com/es/wiki/Azteca_Uno?file=Uno.png", "https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8"],   
+    ["azteca uno", "movie", "https://tvazteca.brightspotcdn.com/dims4/default/2abec18/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png", "https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8"],   
 
     ["retro palmares", "movie", "img/retro.jpg", "https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8"],
         
