@@ -43,7 +43,7 @@
 
 ["Moyobamba Television", "fun", "https://pbs.twimg.com/media/F-c9_loWcAAiEOL?format=png&name=small", "https://live.obslivestream.com/mtv/index.m3u8"],
 	
-["Legendarium tv", "fun", "https://legendarium.neocities.org/images/legendariumtv.png", "https://raw.githubusercontent.com/sciostation/tv/refs/heads/main/natiotv.m3u8"],
+["Legendarium tv", "fun", "https://legendarium.neocities.org/images/legendariumtv.png", "https://raw.githubusercontent.com/sciostation/tv/refs/heads/main/legendarium.m3u"],
     
 ["canal uno", "fun", "img/uno.jpg", "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8"],
 
