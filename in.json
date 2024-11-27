@@ -3,23 +3,22 @@
 
     ["Welcome", "welcome", "https://legendarium.neocities.org/tv/img/TVS.gif", "https://ia600407.us.archive.org/6/items/legendarium-tv-hecho-con-clipchamp/legendarium%20tv%20%E2%80%90%20Hecho%20con%20Clipchamp.mp4"],
     
-    
-    ["colombia", "news", "img/colombia.jpg", "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"],
+    ["canal uno", "fun", "img/uno.jpg", "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8"],
     
     ["institucional", "news", "img/institucional.jpg", "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8"],
-   
-    ["RCN", "news", "img/rcn.jpg", "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"],
-    
-    ["caracol", "news", "img/caracol.png", "https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8"],
- 
-    ["canal uno", "fun", "img/uno.jpg", "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8"],
 
+    ["colombia", "news", "img/colombia.jpg", "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"],
+
+    ["RCN", "news", "img/rcn.jpg", "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"],
+
+    ["anc tv", "movie", "https://i.imgur.com/xjTU14t.jpg", "https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8"],
+	
+    ["WowTV", "news", "img/wow.png", "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8"],
+ 
     ["CARACOLA", "fun", "img/caracola.png", "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8"],
 
 
     ["aguacate", "news", "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg", "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"],
-
-    ["anc tv", "movie", "https://i.imgur.com/xjTU14t.jpg", "https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8"],
 
     ["azteca uno", "movie", "https://tvazteca.brightspotcdn.com/dims4/default/2abec18/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png", "https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8"],   
 
@@ -29,21 +28,21 @@
     
    ["clan internacional", "news", "https://i.imgur.com/03jFV68.png", "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8"],
     
-  ["Entertainment 13", "lifestyle", "https://i.imgur.com/utI1tJV.png", "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"],
+   ["Entertainment 13", "lifestyle", "https://i.imgur.com/utI1tJV.png", "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"],
     
-  ["ACS Network", "movie", "https://i.imgur.com/7aIab2r.png", "https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8"],
+   ["ACS Network", "movie", "https://i.imgur.com/7aIab2r.png", "https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8"],
     
- [ "ZaracayTV", "news", "https://i.imgur.com/6q0Gp9R.png", "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8"],
+  [ "ZaracayTV", "news", "https://i.imgur.com/6q0Gp9R.png", "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8"],
        
- ["Taltal TV ", "movie", "https://sciomedios.neocities.org/img/taltaltv.jpg", "https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8"],
+  ["Taltal TV ", "movie", "https://sciomedios.neocities.org/img/taltaltv.jpg", "https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8"],
     
-["amx noticias", "fun", "https://i.imgur.com/snIU1UA.jpg", "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8"],
+ ["amx noticias", "fun", "https://i.imgur.com/snIU1UA.jpg", "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8"],
     
-["ATVSur", "fun", "https://i.imgur.com/LnyVa5H.png", "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8"],
+[ "ATVSur", "fun", "https://i.imgur.com/LnyVa5H.png", "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8"],
 
-["RTV Total", "fun", "https://static.mytuner.mobi/media/tvos_radios/jktwc449tdgh.png", "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8"],
+ ["RTV Total", "fun", "https://static.mytuner.mobi/media/tvos_radios/jktwc449tdgh.png", "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8"],
 
-["Moyobamba Television", "fun", "https://pbs.twimg.com/media/F-c9_loWcAAiEOL?format=png&name=small", "https://live.obslivestream.com/mtv/index.m3u8"],
+[ "Moyobamba Television", "fun", "https://pbs.twimg.com/media/F-c9_loWcAAiEOL?format=png&name=small", "https://live.obslivestream.com/mtv/index.m3u8"],
 	
 ["Legendarium tv", "fun", "https://legendarium.neocities.org/images/legendariumtv.png", "https://ia600407.us.archive.org/6/items/legendarium-tv-hecho-con-clipchamp/legendarium%20tv%20%E2%80%90%20Hecho%20con%20Clipchamp.mp4"],
     
